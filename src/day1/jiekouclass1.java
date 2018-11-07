@@ -1,4 +1,4 @@
-package day2;
+package day1;
 
 public class jiekouclass1 {
     interface callback{

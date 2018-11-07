@@ -1,4 +1,4 @@
-package day2;
+package day1;
 interface callback{
     void callback(int param);
     class test implements callback{

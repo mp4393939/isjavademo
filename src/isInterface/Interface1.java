@@ -1,4 +1,4 @@
-package day0911;
+package isInterface;
 
 public interface Interface1 {
      String doctorid="000000",orderid="345678-tyrei",token="12eroytrwo";

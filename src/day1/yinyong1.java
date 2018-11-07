@@ -1,4 +1,4 @@
-package day2;
+package day1;
 interface get{
     void get(int param);
     int doctorid=000000;
