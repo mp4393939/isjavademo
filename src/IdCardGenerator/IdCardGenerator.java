@@ -3631,7 +3631,7 @@ public class IdCardGenerator {
 
     public IdCardGenerator() {
         try {
-            print = new PrintStream("E:\\register\\IdCard.txt");  //写好输出位置文件；
+            print = new PrintStream("E:\\demo\\IdCard.txt");  //写好输出位置文件；
 //            System.setOut(print);
         } catch (FileNotFoundException e) {
             e.printStackTrace();

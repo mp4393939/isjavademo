@@ -13,6 +13,10 @@ public class Teacher{
 	this.exp=exp;
 	this.address=address;
  }
+
+	public Teacher(String 任月霞, int age, String 女, String 语文, int salary, double v, String 远涛公寓b341) {
+	}
+
 	public String talk()
 	{
 	return this.name+","+this.age+"岁,性别"+this.gender+","+this.position+"老师,月收入￥"+this.salary+","+this.exp+"年教学经验,住在"+this.address;
