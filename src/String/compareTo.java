@@ -1,6 +1,6 @@
 package String;
 
-//å†’æ³¡æ’åº
+//Ã°ÅİÅÅĞò
 public class compareTo {
     static String arr[] = {"Now", "I'm", "full", "tonight"};
 
@@ -13,7 +13,7 @@ public class compareTo {
                     arr[i] = t;
                 }
             }
-            System.out.println("åŒºåˆ†å¤§å°å†™çš„è¾“å‡º:" + arr[j]);
+            System.out.println("Çø·Ö´óĞ¡Ğ´µÄÊä³ö:" + arr[j]);
         }
         for (int j1 = 0; j1 < arr.length; j1++) {
             for (int i1 = j1 + 1; i1 < arr.length; i1++) {
@@ -23,7 +23,7 @@ public class compareTo {
                     arr[i1] = t;
                 }
             }
-            System.out.println("ä¸åŒºåˆ†å¤§å°å†™çš„è¾“å‡º:" + arr[j1]);
+            System.out.println("²»Çø·Ö´óĞ¡Ğ´µÄÊä³ö:" + arr[j1]);
         }
 
     }
