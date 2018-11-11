@@ -5,11 +5,11 @@ import java.io.*;
 public class write_test {
     public static void main(String[] args) throws IOException {
 
-        File f=new File("out.txt");
+        File f = new File("out.txt");
         f.createNewFile();
         FileOutputStream fileOutputStream = new FileOutputStream(f);
         PrintStream printStream = new PrintStream(fileOutputStream);
         System.setOut(printStream);
-        System.out.println("Ä¬ÈÏÊä³öµ½¿ØÖÆÌ¨µÄÕâÒ»¾ä£¬Êä³öµ½ÁËÎÄ¼þ out.txt");
+        System.out.println("Ä¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì¨ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ä£¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ out.txt");
     }
 }

@@ -1,8 +1,10 @@
 package thread;
+
 import java.lang.Thread;
+
 public class method {
     public static void main(String args[]) throws InterruptedException {
-        Thread t=new Thread();
+        Thread t = new Thread();
         t.getName();
         t.getPriority();
         t.isAlive();
@@ -10,6 +12,6 @@ public class method {
         t.run();
         t.sleep(5);
         t.start();
-        System.out.println(t.getName()+"\n"+t.getPriority()+"\n"+t.isAlive());
+        System.out.println(t.getName() + "\n" + t.getPriority() + "\n" + t.isAlive());
     }
 }

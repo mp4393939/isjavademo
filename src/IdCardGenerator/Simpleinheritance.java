@@ -22,7 +22,7 @@ public class Simpleinheritance {
     }
 
     class Simpleinheritance1 {
-        public  void main(String[] args) {
+        public void main(String[] args) {
             System.out.println("Hello World!£¡£¡£¡111");
 
         }
