@@ -11,10 +11,10 @@ public class Array3{
 	this.school=school;
 	}
 public String talk(){
-	return "æˆ‘æ˜¯"+this.name+",å¹´é¾„"+this.age+"å²,æ€§åˆ«"+this.gender+",åˆ"+this.class_of+",å°±è¯»äº"+this.school;
+	return "ÎÒÊÇ"+this.name+",ÄêÁä"+this.age+"Ëê,ĞÔ±ğ"+this.gender+",³õ"+this.class_of+",¾Í¶ÁÓÚ"+this.school;
   }
   public static void main (String[] args){
-	  Array3 message[]={new Array3("å¼ ä¸‰",15,"ç”·","ä¸€","ä¹æ±Ÿä¸€ä¸­"),new Array3("æå››",16,"ç”·","ä¸‰","ä¹æ±ŸäºŒä¸­"),new Array3("å¼ è‰³",14,"å¥³","ä¸€","ä¹æ±Ÿä¸€ä¸­"),new Array3("æ¨é›ª",15,"å¥³","äºŒ","ä¹æ±ŸäºŒä¸­")};
+	  Array3 message[]={new Array3("ÕÅÈı",15,"ÄĞ","Ò»","¾Å½­Ò»ÖĞ"),new Array3("ÀîËÄ",16,"ÄĞ","Èı","¾Å½­¶şÖĞ"),new Array3("ÕÅÑŞ",14,"Å®","Ò»","¾Å½­Ò»ÖĞ"),new Array3("ÑîÑ©",15,"Å®","¶ş","¾Å½­¶şÖĞ")};
 	  for (int i=0;i<message.length;i++){
 		  System.out.println(message[i].talk());
 	  }

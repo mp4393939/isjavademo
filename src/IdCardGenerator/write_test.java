@@ -10,6 +10,6 @@ public class write_test {
         FileOutputStream fileOutputStream = new FileOutputStream(f);
         PrintStream printStream = new PrintStream(fileOutputStream);
         System.setOut(printStream);
-        System.out.println("榛樿杈撳嚭鍒版帶鍒跺彴鐨勮繖涓�鍙ワ紝杈撳嚭鍒颁簡鏂囦欢 out.txt");
+        System.out.println("默认输出到控制台的这一句，输出到了文件 out.txt");
     }
 }

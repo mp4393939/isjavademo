@@ -23,7 +23,7 @@ public class Simpleinheritance {
 
     class Simpleinheritance1 {
         public  void main(String[] args) {
-            System.out.println("Hello World!ÔºÅÔºÅÔºÅ111");
+            System.out.println("Hello World!£°£°£°111");
 
         }
     }

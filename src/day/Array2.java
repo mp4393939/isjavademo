@@ -9,11 +9,11 @@ public Array2 (String name,int age,String address){
 	this.address=address;
 	}
 public String talk(){
-	return "æˆ‘å«"+this.name+"ï¼Œä»Šå¹´"+this.age+"å²ï¼Œä½åœ¨"+this.address;
+	return "ÎÒ½Ğ"+this.name+"£¬½ñÄê"+this.age+"Ëê£¬×¡ÔÚ"+this.address;
   }   
 
 public static void main (String[] args){
-	Array2 message[]={new Array2("å¼ ä¸‰",20,"æ±Ÿè‹å—äº¬"),new Array2("æå››",29,"æµ™æ±Ÿæ¸©å·"),new Array2("ç‹èŠ³",20,"å¹¿ä¸œè‚‡åº†"),new Array2("èµµé›ªæ¢…",34,"åŒ—äº¬å¸‚")};
+	Array2 message[]={new Array2("ÕÅÈı",20,"½­ËÕÄÏ¾©"),new Array2("ÀîËÄ",29,"Õã½­ÎÂÖİ"),new Array2("Íõ·¼",20,"¹ã¶«ÕØÇì"),new Array2("ÕÔÑ©Ã·",34,"±±¾©ÊĞ")};
    for (int i=0;i<message.length;i++){
 	   System.out.println(message[i].talk());
 	   }

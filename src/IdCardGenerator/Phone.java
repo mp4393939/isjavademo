@@ -10,16 +10,17 @@ public class Phone {
         FileOutputStream file=null;
         PrintStream p=null;
         try{
-            FileOutputStream f=new FileOutputStream(new File("E:\\register\\phonenumber.txt"));//å°†æ–‡æœ¬å†…å®¹æ¸…ç©º
+            FileOutputStream f=new FileOutputStream(new File("E:\\jmeter\\phonenumber.txt"));//½«ÎÄ±¾ÄÚÈÝÇå¿Õ
             f.close();
-            file=new FileOutputStream("E:\\register\\phonenumber.txt",true);//true?
+            file=new FileOutputStream("E:\\jmeter\\phonenumber.txt",true);//true?
             p=new PrintStream(file);
             for(long i=13600000000l;i<=13600000099l;i++){
                 p.println(i);
             }
-            System.out.println("éšæœºç”Ÿæˆçš„æ‰‹æœºå·ç å·²å†™å…¥æ–‡æœ¬");
+            System.out.println("Ëæ»úÉú³ÉµÄÊÖ»úºÅÂëÒÑÐ´ÈëÎÄ±¾");
         }catch(FileNotFoundException e){
             e.printStackTrace();
+            System.out.println("ÏµÍ³ÕÒ²»µ½Ö¸¶¨µÄÂ·¾¶");
         }
         if(p!=null){
             p.close();

@@ -12,7 +12,7 @@ public class zuoyongyu {
                 System.out.println("result=" + i);
             }
         }
-        //j鍦ㄤ綔鐢ㄥ煙澶栦娇鐢ㄤ細鎶ラ敊
+        //j在作用域外使用会报错
         System.out.println('\n'+"i="+i);
     }
 }

@@ -6,18 +6,18 @@ public class method1{
 		sayHello("laowang");
 		double d=sum();
 		int n=plus(5,6);
-		System.out.print("åœ¨mainæ–¹æ³•ä¼ é€’çš„å€¼"+d+"\n"+n);
+		System.out.print("ÔÚmain·½·¨´«µİµÄÖµ"+d+"\n"+n);
 		}
 		public static void say(){};
-		//æ— è¿”å›å€¼æ— å‚æ•°
+		//ÎŞ·µ»ØÖµÎŞ²ÎÊı
 		public static void sayHello(String name){};
-		//æ— è¿”å›å€¼æœ‰å‚æ•°
-		public static double sum(){//æœ‰è¿”å›å€¼æ— å‚æ•°
+		//ÎŞ·µ»ØÖµÓĞ²ÎÊı
+		public static double sum(){//ÓĞ·µ»ØÖµÎŞ²ÎÊı
 			System.out.println(5.5);
 			return 55.5;
 			}
 		public static int plus(int a,int b){
-			//æœ‰è¿”å›å€¼æœ‰å‚æ•°
+			//ÓĞ·µ»ØÖµÓĞ²ÎÊı
 			System.out.println(a*b);
 			return a+b;
 		}

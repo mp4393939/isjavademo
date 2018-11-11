@@ -13,9 +13,9 @@ public class array {
             y=j;
             System.out.print("\t"+array[j]);
         }
-        System.out.println("\n"+"æ­£åºéå†è¾“å‡ºæœ€åxçš„å€¼:"+array[x]);
+        System.out.println("\n"+"ÕıĞò±éÀúÊä³ö×îºóxµÄÖµ:"+array[x]);
         System.out.println("x="+x);
-        System.out.println("é€†åºéå†è¾“å‡ºæœ€åyçš„å€¼:"+array[y]);
+        System.out.println("ÄæĞò±éÀúÊä³ö×îºóyµÄÖµ:"+array[y]);
         System.out.println("y="+y);
     }
 }

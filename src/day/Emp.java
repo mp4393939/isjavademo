@@ -1,19 +1,18 @@
 package day;
 
 public class Emp{
-	
-		String name,address;
-		int age;
-		String gender;
-		double salary;
+	private String name,address;
+		private int age;
+		private String gender;
+		private double salary;
 		
 public static void main (String[] args){
 	Emp emp1=new Emp();
-	emp1.name="å¼ ä¸‰";
+	emp1.name="ÕÅÈı";
 	emp1.age=20;
-	emp1.gender="ç”·";
-	emp1.salary=8000.50;
-	emp1.address="æ±Ÿè¥¿èµ£å·";
-	System.out.println("------------------------------"+"\n"+"æˆ‘å«"+emp1.name+"ï¼Œå¹´é¾„"+emp1.age+"å²ï¼Œæ€§åˆ«"+emp1.gender+"ï¼Œæœˆè–ªÂ¥"+emp1.salary+"ï¼Œå±…ä½åœ°æ˜¯"+emp1.address+"ã€‚"+"\n"+"å¦¹å­æ˜ŸæœŸå¤©çº¦å—ï¼Ÿæ±‚äº¤å¾€â™¬ï¸*(à¹‘Âºà¸±â•°ï¸â•¯ï¸Âºà¸±à¹‘)â™¡ï¸ã€‚");
+	emp1.gender="ÄĞ";
+	emp1.salary=8000.55;
+	emp1.address="½­Î÷¸ÓÖİ";
+	System.out.println("------------------------------"+"\n"+"ÎÒ½Ğ"+emp1.name+"£¬ÄêÁä"+emp1.age+"Ëê£¬ĞÔ±ğ"+emp1.gender+"£¬ÔÂĞ½£¤"+emp1.salary+"£¬¾Ó×¡µØÊÇ"+emp1.address+"¡£"+"\n"+"ÃÃ×ÓĞÇÆÚÌìÔ¼Âğ£¿Çó½»Íù");
    }
 }

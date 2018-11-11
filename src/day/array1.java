@@ -14,7 +14,7 @@ public static void main (String[] args){
 		for (int i=0;i<b.length;i++){
 			System.out.println(b[i]);
 		}
-		System.out.println("açš„é•¿åº¦="+a.length+"\n"+"bçš„é•¿åº¦="+b.length);
+		System.out.println("aµÄ³¤¶È="+a.length+"\n"+"bµÄ³¤¶È="+b.length);
 
 	}
 

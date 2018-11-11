@@ -10,15 +10,15 @@ public Array4 (String name,int age,String phone,String address ){
 	this.address=address;
     }
 public String talk(){
-	return this.name+",å¹´é¾„"+this.age+"å²,æ‰‹æœºå·ç æ˜¯"+this.phone+",ä½åœ¨"+this.address;
+	return this.name+",ÄêÁä"+this.age+"Ëê,ÊÖ»úºÅÂëÊÇ"+this.phone+",×¡ÔÚ"+this.address;
     }
 public static void main (String[] args){
 	Array4 mess[]={
-		new Array4("èµµå¤„ç‡•",23,"13263026403","æ±Ÿè¥¿çœæŠšå·å¸‚"),
-		new Array4("ç‹ä¸‡å£",28,"13245316217","æ±Ÿè¥¿çœèµ£å·å¸‚"),
-		new Array4("æä¸‰å›",23,"13263026403","æ±Ÿè¥¿çœå—æ˜Œå¸‚"),
-		new Array4("éƒ½è¡å„¿",19,"16302605482","æ±Ÿè¥¿çœé¹°æ½­å¸‚"),
-		new Array4("éŸ©é›ªå„¿",26,"13221845803","æ±Ÿè¥¿çœå‰å®‰å¸‚")
+		new Array4("ÕÔ´¦Ñà",23,"13263026403","½­Î÷Ê¡¸§ÖİÊĞ"),
+		new Array4("ÍõÍò¿Ú",28,"13245316217","½­Î÷Ê¡¸ÓÖİÊĞ"),
+		new Array4("ÀîÈı»Ø",23,"13263026403","½­Î÷Ê¡ÄÏ²ıÊĞ"),
+		new Array4("¶¼İÕ¶ù",19,"16302605482","½­Î÷Ê¡Ó¥Ì¶ÊĞ"),
+		new Array4("º«Ñ©¶ù",26,"13221845803","½­Î÷Ê¡¼ª°²ÊĞ")
 	};
 	for (int i=0;i<mess.length;i++){
 		System.out.println(mess[i].talk());

@@ -4,10 +4,10 @@ public class Person{
 	String name,address;
 	int age;
 	void talk() {
-		System.out.println("æˆ‘å«"+name+"ï¼Œä»Šå¹´"+age+"ï¼Œä½åœ¨"+address);
+		System.out.println("ÎÒ½Ğ"+name+"£¬½ñÄê"+age+"£¬×¡ÔÚ"+address);
 	}
 	String talk2() {
-		System.out.println("æˆ‘å«"+name+"ï¼Œä»Šå¹´"+age+"ï¼Œä½åœ¨"+address);
+		System.out.println("ÎÒ½Ğ"+name+"£¬½ñÄê"+age+"£¬×¡ÔÚ"+address);
 		return "java.lang.String";
 	}
 }
