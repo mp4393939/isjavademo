@@ -3648,7 +3648,7 @@ public class IdCard {
 
     public static void main(String[] args) {
         IdCard isIdCard = new IdCard();
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 100; i++) {
             isIdCard.print();
         }
         isIdCard.print.close();
