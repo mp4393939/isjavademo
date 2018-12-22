@@ -3634,7 +3634,7 @@ public class IdCard {
     public IdCard() {
         try {
             //写好输出位置文件；
-            print = new PrintStream("E:\\demo\\IdCard.txt");
+            print = new PrintStream("E:\\jmeter\\IdCard.txt");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
@@ -3648,7 +3648,7 @@ public class IdCard {
 
     public static void main(String[] args) {
         IdCard isIdCard = new IdCard();
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 10; i++) {
             isIdCard.print();
         }
         isIdCard.print.close();

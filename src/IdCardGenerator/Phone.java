@@ -11,9 +11,10 @@ public class Phone {
         FileOutputStream file = null;
         PrintStream p = null;
         try {
-            FileOutputStream f = new FileOutputStream(new File("E:\\demo\\phonenumber.txt"));//将文本内容清空
+            FileOutputStream f = new FileOutputStream(new File("E:\\jmeter\\phonenumber.txt"));//将文本内容清空
             f.close();
-            file = new FileOutputStream("E:\\demo\\phonenumber.txt", true);//true?
+            file = new FileOutputStream("E:\\jmeter\\phonenumber.txt", true);//true?
+            p = new PrintStream(file);
             p = new PrintStream(file);
             for (long i = 13600000000l; i <= 13600000099l; i++) {
                 p.println(i);
