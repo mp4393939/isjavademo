@@ -39,7 +39,7 @@ class Translate {
     public  class MD5 {
         public static void main(String[] args) {
             //与本地文件建立通信
-            File file = new File("E:\\demo\\Sum_PersonId.txt");
+            File file = new File("E:\\jmeter\\Sum_PersonId.txt");
             BufferedReader reader = null;
             String txt = null;
             @SuppressWarnings("unused")

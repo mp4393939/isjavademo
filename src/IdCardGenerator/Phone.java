@@ -11,7 +11,8 @@ public class Phone {
         FileOutputStream file = null;
         PrintStream p = null;
         try {
-            FileOutputStream f = new FileOutputStream(new File("E:\\jmeter\\phonenumber.txt"));//将文本内容清空
+            FileOutputStream f = new FileOutputStream(new File("E:\\jmeter\\phonenumber.txt"));
+            //将文本内容清空
             f.close();
             file = new FileOutputStream("E:\\jmeter\\phonenumber.txt", true);//true?
             p = new PrintStream(file);
