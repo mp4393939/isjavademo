@@ -9,7 +9,7 @@ public class MD5_0 {
 
     public static void main(String[] args) {
         @SuppressWarnings("unused")
-        String test = TranslateMD5("u1_c8d3e4da-ef38-4924-984d-a46fef53bc75");
+        String test = TranslateMD5("u1_1679BED9-4957-4396-9C67-32A31FADDEA8");
         //System.out.println(test);
     }
 
@@ -30,6 +30,7 @@ public class MD5_0 {
                 buf.append(Integer.toHexString(i));
             }
             result = buf.toString();
+            sourceStr=sourceStr.toLowerCase();
             //System.out.println("MD5(" + sourceStr + ",32 Сд) = " + result.toLowerCase());
             //System.out.println("MD5(" + sourceStr + ",32 ��д) = " + result.toUpperCase());
             //System.out.println("MD5(" + sourceStr + ",16 Сд) = " + buf.toString().substring(8, 24).toLowerCase());
