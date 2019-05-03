@@ -1,4 +1,4 @@
-package day1;
+package Class;
 
 interface get {
     void get(int param);

@@ -1,4 +1,4 @@
-package day;
+package Array;
 
 public class Emp {
     private String name, address;

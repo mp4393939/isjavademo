@@ -1,4 +1,4 @@
-package day;
+package Array;
 
 public class Array2 {
     String name, address;

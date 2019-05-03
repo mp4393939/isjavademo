@@ -1,6 +1,6 @@
-package demo;
+package thread;
 
-class newthread4 implements Runnable {
+class thread1 implements Runnable {
     @Override
     public String toString() {
         return super.toString();
@@ -8,7 +8,7 @@ class newthread4 implements Runnable {
 
     Thread t;
 
-    public newthread4() {
+    public thread1() {
         t = new Thread(this, "demo thread");
         System.out.println("child thread info:" + t);
         t.start();
@@ -27,9 +27,9 @@ class newthread4 implements Runnable {
     }
 }
 
-public class thread4 {
+public class thread_loop {
     public static void main(String[] args) {
-        new newthread4();
+        new thread_loop();
         try {
             for (int i = 5; i > 0; i--) {
                 System.out.println("main thread:" + i);
@@ -39,7 +39,7 @@ public class thread4 {
             System.out.println("main thread interrupted");
         }
         System.out.println("main thread exiting");
-        newthread4 t = new newthread4();
+        thread1 t= new thread1();
         System.out.println(t.toString());
     }
 }

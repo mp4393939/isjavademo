@@ -1,4 +1,4 @@
-package day;
+package Array;
 
 public class Worker {
     String name, gender, position, address;

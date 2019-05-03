@@ -1,4 +1,4 @@
-package day;
+package Array;
 
 public class Array3 {
     String name, gender, class_of, school;

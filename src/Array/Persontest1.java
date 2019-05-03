@@ -1,4 +1,4 @@
-package day;
+package Array;
 
 public class Persontest1 {
     public static void main(String[] args) {

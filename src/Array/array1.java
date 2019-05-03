@@ -1,4 +1,4 @@
-package day;
+package Array;
 
 import java.util.*;
 

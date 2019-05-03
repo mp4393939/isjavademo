@@ -1,4 +1,4 @@
-package day;
+package Array;
 
 public class Teacher {
     private String name, gender, position, address;

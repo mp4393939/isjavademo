@@ -1,4 +1,4 @@
-package day1;
+package Class;
 
 public class jiekouclass2 {
     interface gets {

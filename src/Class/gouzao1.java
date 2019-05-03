@@ -1,4 +1,4 @@
-package day1;
+package Class;
 
 class box {
     double width, height, depth;
