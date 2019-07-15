@@ -12,7 +12,7 @@ public class zuoyongyu {
                 System.out.println("result=" + i);
             }
         }
-        //j����������ʹ�ûᱨ��
+        //作用域
         System.out.println('\n' + "i=" + i);
     }
 }

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Array/Array2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Array3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Array4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Emp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Persontest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Teacher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/Worker.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/array1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Array/method1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/IdCardGenerator/Exam1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/IdCardGenerator/IdCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/IdCardGenerator/IdCard_substring.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/IdCardGenerator/ReadFile0_5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/IdCardGenerator/ReadFile0_5_2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/IdCardGenerator/Simpleinheritance.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/IdCardGenerator/indexOf_Str.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/IdCardGenerator/test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MessageDigest/MD5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MessageDigest/MD5_0.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/RandomString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/RemoveRepeated.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/String/compareTo.java" charset="GBK" />
+  </component>
+</project>

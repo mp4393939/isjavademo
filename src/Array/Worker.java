@@ -11,7 +11,7 @@ public class Worker {
         this.gender = gender;
         this.position = position;
         this.salary = salary;
-        this.address = address;//这个构造方法一个字符都不能出错(???︿???)
+        this.address = address;//这个构造方法一个字符都不能出错
     }
 
     public String talk() {
