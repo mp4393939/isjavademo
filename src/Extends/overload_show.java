@@ -22,7 +22,7 @@ class d extends c {
         k = c;
     }
 
-    //重载方法:改变方法的参数不会发生重写（名称隐藏），只是重载超累的show()版本
+    //重载方法:改变方法的参数不会发生重写（名称隐藏），只是重载超类的show()版本
     void show(String msg) {
         //调用超类的方法
         System.out.println(msg + k);
