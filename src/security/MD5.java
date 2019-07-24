@@ -1,4 +1,5 @@
-package MessageDigest;
+package security;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -36,34 +37,34 @@ class Translate {
 
     }
 }
-    public  class MD5 {
-        public static void main(String[] args) {
-            //与本地文件建立通信
-            File file = new File("E:\\jmeter\\Sum_PersonId.txt");
-            BufferedReader reader = null;
-            String txt = null;
-            @SuppressWarnings("unused")
-            int line = 1;
-            try {
-                reader = new BufferedReader(new FileReader(file));
-                while ((txt = reader.readLine()) != null) {
-                    //逐行输出文本
-                    //System.out.println(txt);
-                    line++;
-                    //调用TranslateMD5()方法
-                    Translate test = new Translate();
-                    test.TranslateMD5("u1_" + txt.toString().toLowerCase());
-                }
-            } catch (Exception e) {
-                e.printStackTrace();
-            } finally {
-                if (reader != null) {
-                    try {
-                        reader.close();
-                    } catch (Exception e) {
-                        e.printStackTrace();
-                    }
+public  class MD5 {
+    public static void main(String[] args) {
+        //与本地文件建立通信
+        File file = new File("src\\security\\Sum_PersonId.txt");
+        BufferedReader reader = null;
+        String txt = null;
+        @SuppressWarnings("unused")
+        int line = 1;
+        try {
+            reader = new BufferedReader(new FileReader(file));
+            while ((txt = reader.readLine()) != null) {
+                //逐行输出文本
+                //System.out.println(txt);
+                line++;
+                //调用TranslateMD5()方法
+                Translate test = new Translate();
+                test.TranslateMD5("u1_" + txt.toString().toLowerCase());
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            if (reader != null) {
+                try {
+                    reader.close();
+                } catch (Exception e) {
+                    e.printStackTrace();
                 }
             }
         }
     }
+}

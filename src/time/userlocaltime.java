@@ -1,9 +1,9 @@
 package time;
 
-public class local1 extends local {
+public class userlocaltime extends localtime {
 
     public static void main(String[] args) {
-        local1 text = new local1();
+        userlocaltime text = new userlocaltime();
         text.gettime(10);
         text.gettime_0("localtime");
         //override
