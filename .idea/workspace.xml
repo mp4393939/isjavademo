@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/security/MD5.java" line="42" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="add new class">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Array2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Array3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Array4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Persontest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/ReadArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/array1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/method1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Boolean/FOrderState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/TestStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/c.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/callback$test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/callback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/chongzai1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/get$test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/get.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzao1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/jiekouclass1$callback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/jiekouclass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/jiekouclass2$gets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/jiekouclass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/override_overload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/yinyong1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/boxweight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/c.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/extends_showij_sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/overload_show.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/override_area.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/override_show.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/super_volume.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/ABCDEFGHIJKLMN.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Exam1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/IdCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/IdCard_substring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Orders.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/ReadFile0_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/ReadFile0_5_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Simpleinheritance$Simpleinheritance1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Simpleinheritance$a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Simpleinheritance$b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Simpleinheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/boolean1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/indexOf_Str.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/ip.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/logic1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/zuoyongyu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Loop/recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/META-INF/isjavademo.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/RandomString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/RemoveRepeated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/charat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/chars1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/compareTo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/connect1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/getchars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/join1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/squals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/substring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/trim1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/io/CharArrayWriterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/io/read_q.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/io/readline1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/isInterface/Expandable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/isInterface/Interface1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/isInterface/test_interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/GiftShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Storefront.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/TestSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/MD5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/MD5_0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/RandomGUID.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/SHA1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/Sum_PersonId.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/Translate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/UUIDGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/capacity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/delete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/insert_reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/replace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/setCharAt_setLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/buffered1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/isAlive_join.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/multiple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/run.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/thread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/thread_loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/useRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/time/localtime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/time/userlocaltime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phone.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/gouzaohanshu1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/gouzaohanshu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class/override_overload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isInterface/Expandable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isInterface/test_interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kinglian/GiftShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kinglian/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kinglian/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kinglian/Storefront.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kinglian/TestSingleton.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Class/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kinglian/Storefront.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#112#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kinglian/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kinglian/GiftShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="14" />
+              <folding>
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Class/override_overload.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kinglian/Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kinglian/TestSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/time/tee.java" />
+        <option value="$PROJECT_DIR$/src/Extends/overload_show.java" />
+        <option value="$PROJECT_DIR$/src/time/local.java" />
+        <option value="$PROJECT_DIR$/src/time/local1.java" />
+        <option value="$PROJECT_DIR$/src/IdCardGenerator/UUIDGenerator.java" />
+        <option value="$PROJECT_DIR$/src/IdCardGenerator/RandomGUID.java" />
+        <option value="$PROJECT_DIR$/src/time/localtime.java" />
+        <option value="$PROJECT_DIR$/src/security/MD5_0.java" />
+        <option value="$PROJECT_DIR$/src/security/SHA1.java" />
+        <option value="$PROJECT_DIR$/src/security/MD5.java" />
+        <option value="$PROJECT_DIR$/src/security/UUIDGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Class/TestStack.java" />
+        <option value="$PROJECT_DIR$/src/Class/Stack.java" />
+        <option value="$PROJECT_DIR$/src/isInterface/test_interface.java" />
+        <option value="$PROJECT_DIR$/src/isInterface/Expandable.java" />
+        <option value="$PROJECT_DIR$/src/Class/override&amp;overload.java" />
+        <option value="$PROJECT_DIR$/src/kinglian/Item.java" />
+        <option value="$PROJECT_DIR$/src/Class/override_overload.java" />
+        <option value="$PROJECT_DIR$/src/kinglian/GiftShop.java" />
+        <option value="$PROJECT_DIR$/src/kinglian/Phone.java" />
+        <option value="$PROJECT_DIR$/src/kinglian/TestSingleton.java" />
+        <option value="$PROJECT_DIR$/src/Class/gouzaohanshu2.java" />
+        <option value="$PROJECT_DIR$/src/Class/gouzaohanshu1.java" />
+        <option value="$PROJECT_DIR$/src/kinglian/Storefront.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
+              <item name="gouzaohanshu1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
+              <item name="gouzaohanshu2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
+              <item name="override_overload.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kinglian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kinglian" type="462c0819:PsiDirectoryNode" />
+              <item name="TestSingleton.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="time" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Program Files/jprofiler11/bin/jprofiler.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\isjavademo\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Phone">
+    <configuration name="GiftShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kinglian.GiftShop" />
+      <module name="isjavademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kinglian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kinglian.Phone" />
+      <module name="isjavademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kinglian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kinglian.TestSingleton" />
+      <module name="isjavademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kinglian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gouzaohanshu2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class.gouzaohanshu2" />
+      <module name="isjavademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="override_overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class.override_overload" />
+      <module name="isjavademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Phone" />
+        <item itemvalue="Application.gouzaohanshu2 (1)" />
+        <item itemvalue="Application.GiftShop" />
+        <item itemvalue="Application.TestSingleton" />
+        <item itemvalue="Application.override_overload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="" />
+      <created>1563968181879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563968181879</updated>
+      <workItem from="1563968183123" duration="6989000" />
+      <workItem from="1563977764744" duration="5641000" />
+      <workItem from="1565179319718" duration="2574000" />
+      <workItem from="1565181929850" duration="2225000" />
+      <workItem from="1565187662762" duration="410000" />
+      <workItem from="1567596604054" duration="726000" />
+      <workItem from="1569668202960" duration="50000" />
+      <workItem from="1569675435205" duration="386000" />
+      <workItem from="1569843087180" duration="2528000" />
+    </task>
+    <task id="LOCAL-00001" summary="add new class">
+      <created>1563971106262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563971106262</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new class">
+      <created>1563975285191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563975285191</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add new class">
+      <created>1563983384389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563983384389</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add new class">
+      <created>1565188021355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565188021356</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21529000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2548807" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.21800433" />
+      <window_info anchor="bottom" id="JProfiler" order="14" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new class" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Array/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Persontest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IdCardGenerator/IdCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Extends/extends_showij_sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Extends/overload_show.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/time/Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7575">
+          <caret line="376" column="26" selection-start-line="376" selection-start-column="26" selection-end-line="376" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MessageDigest/MD5.java" />
+    <entry file="file://$PROJECT_DIR$/src/MessageDigest/SHA1_0.java" />
+    <entry file="file://$PROJECT_DIR$/src/MessageDigest/MD5_0.java" />
+    <entry file="file://$PROJECT_DIR$/src/security/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding>
+            <element signature="e#204#231#1" expanded="true" />
+            <element signature="e#1439#1466#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/time/userlocaltime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/time/localtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IdCardGenerator/IdCard_substring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/security/UUIDGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/security/RandomGUID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/security/SHA1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/TestStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/security/MD5_0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isInterface/Interface1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/override&amp;overload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isInterface/Expandable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isInterface/test_interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kinglian/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kinglian/TestSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kinglian/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kinglian/GiftShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="14" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/override_overload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kinglian/Storefront.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#112#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>isjavademo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
