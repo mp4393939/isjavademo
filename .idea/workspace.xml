@@ -4,141 +4,20 @@
     <bookmark url="file://$PROJECT_DIR$/src/security/MD5.java" line="42" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="add new class">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Array2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Array3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Array4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Persontest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/ReadArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/array1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/method1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Array/order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Boolean/FOrderState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/Stack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/TestStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/c.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/callback$test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/callback.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/chongzai1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/d.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/get$test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/get.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzao1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/jiekouclass1$callback.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/jiekouclass1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/jiekouclass2$gets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/jiekouclass2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/override_overload.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/yinyong1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/box.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/boxweight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/c.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/d.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/extends_showij_sum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/figure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/overload_show.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/override_area.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/override_show.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/super_volume.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Extends/triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/ABCDEFGHIJKLMN.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Exam1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/IdCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/IdCard_substring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/List.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Orders.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/ReadFile0_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/ReadFile0_5_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Simpleinheritance$Simpleinheritance1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Simpleinheritance$a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Simpleinheritance$b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/Simpleinheritance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/boolean1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/indexOf_Str.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/ip.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/logic1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/IdCardGenerator/zuoyongyu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/Loop/recursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/META-INF/isjavademo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/RandomString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/RemoveRepeated.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/charat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/chars1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/compareTo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/connect1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/getchars.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/join1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/squals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/substring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/String/trim1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/io/CharArrayWriterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/io/read_q.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/io/readline1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/isInterface/Expandable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/isInterface/Interface1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/isInterface/test_interface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/GiftShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Storefront.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/TestSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/MD5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/MD5_0.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/RandomGUID.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/SHA1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/Sum_PersonId.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/Translate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/security/UUIDGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/capacity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/delete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/index.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/insert_reverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/replace.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/stringbuff/setCharAt_setLength.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/buffered1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/isAlive_join.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/multiple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/run.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/thread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/thread_loop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/useRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/time/localtime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/isjavademo/time/userlocaltime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phone.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/gouzaohanshu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/gouzaohanshu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/override_overload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isInterface/Expandable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isInterface/test_interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kinglian/GiftShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kinglian/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kinglian/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kinglian/Storefront.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kinglian/TestSingleton.java" afterDir="false" />
+    <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Loop/For_break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop/While_break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/PCFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/SuspendResume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/Synchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/time/localtime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/time/localtime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/time/userlocaltime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/time/userlocaltime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/time/localtime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/time/localtime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/time/userlocaltime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/time/userlocaltime.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,94 +30,84 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Class/Stack.java">
+        <entry file="file://$PROJECT_DIR$/src/Loop/While_break.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="150">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Loop/For_break.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/time/localtime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/isAlive_join.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/Synchronized.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/PCFixed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thread/SuspendResume.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="72" column="32" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
+              <folding>
+                <element signature="e#1033#1034#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kinglian/Storefront.java">
+        <entry file="file://$PROJECT_DIR$/src/thread/Deadlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="412">
+              <caret line="54" column="83" selection-start-line="54" selection-start-column="83" selection-end-line="54" selection-end-column="83" />
               <folding>
-                <element signature="e#112#118#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kinglian/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kinglian/GiftShop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="14" />
-              <folding>
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Class/override_overload.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kinglian/Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kinglian/TestSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -252,6 +121,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exiting</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -264,7 +138,6 @@
         <option value="$PROJECT_DIR$/src/time/local1.java" />
         <option value="$PROJECT_DIR$/src/IdCardGenerator/UUIDGenerator.java" />
         <option value="$PROJECT_DIR$/src/IdCardGenerator/RandomGUID.java" />
-        <option value="$PROJECT_DIR$/src/time/localtime.java" />
         <option value="$PROJECT_DIR$/src/security/MD5_0.java" />
         <option value="$PROJECT_DIR$/src/security/SHA1.java" />
         <option value="$PROJECT_DIR$/src/security/MD5.java" />
@@ -279,9 +152,19 @@
         <option value="$PROJECT_DIR$/src/kinglian/GiftShop.java" />
         <option value="$PROJECT_DIR$/src/kinglian/Phone.java" />
         <option value="$PROJECT_DIR$/src/kinglian/TestSingleton.java" />
-        <option value="$PROJECT_DIR$/src/Class/gouzaohanshu2.java" />
-        <option value="$PROJECT_DIR$/src/Class/gouzaohanshu1.java" />
         <option value="$PROJECT_DIR$/src/kinglian/Storefront.java" />
+        <option value="$PROJECT_DIR$/src/Class/gouzaohanshu1.java" />
+        <option value="$PROJECT_DIR$/src/Class/gouzaohanshu2.java" />
+        <option value="$PROJECT_DIR$/src/time/userlocaltime.java" />
+        <option value="$PROJECT_DIR$/src/time/localtime.java" />
+        <option value="$PROJECT_DIR$/src/Loop/While_break.java" />
+        <option value="$PROJECT_DIR$/src/Loop/For_break.java" />
+        <option value="$PROJECT_DIR$/src/thread/isAlive_join.java" />
+        <option value="$PROJECT_DIR$/src/thread/Synchronized.java" />
+        <option value="$PROJECT_DIR$/src/thread/multiple.java" />
+        <option value="$PROJECT_DIR$/src/thread/PCFixed.java" />
+        <option value="$PROJECT_DIR$/src/thread/SuspendResume.java" />
+        <option value="$PROJECT_DIR$/src/thread/Deadlock.java" />
       </list>
     </option>
   </component>
@@ -296,6 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,41 +197,21 @@
               <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
               <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Class" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
               <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Class" type="462c0819:PsiDirectoryNode" />
-              <item name="gouzaohanshu1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="isAlive_join.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
               <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Class" type="462c0819:PsiDirectoryNode" />
-              <item name="gouzaohanshu2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Class" type="462c0819:PsiDirectoryNode" />
-              <item name="override_overload.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kinglian" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isjavademo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kinglian" type="462c0819:PsiDirectoryNode" />
-              <item name="TestSingleton.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="multiple.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="isjavademo" type="b2602c69:ProjectViewProjectNode" />
@@ -358,8 +223,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,13 +252,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Phone">
-    <configuration name="GiftShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kinglian.GiftShop" />
+  <component name="RunManager" selected="Application.Deadlock">
+    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.Deadlock" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kinglian.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kinglian.Phone" />
+    <configuration name="For_break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop.For_break" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kinglian.*" />
+          <option name="PATTERN" value="Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -416,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kinglian.TestSingleton" />
+    <configuration name="PCFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.PCFixed" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kinglian.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gouzaohanshu2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class.gouzaohanshu2" />
+    <configuration name="SuspendResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.SuspendResume" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -442,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="override_overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class.override_overload" />
+    <configuration name="Synchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.Synchronized" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -457,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Phone" />
-        <item itemvalue="Application.gouzaohanshu2 (1)" />
-        <item itemvalue="Application.GiftShop" />
-        <item itemvalue="Application.TestSingleton" />
-        <item itemvalue="Application.override_overload" />
+        <item itemvalue="Application.Deadlock" />
+        <item itemvalue="Application.PCFixed" />
+        <item itemvalue="Application.Synchronized" />
+        <item itemvalue="Application.SuspendResume" />
+        <item itemvalue="Application.For_break" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +346,15 @@
       <workItem from="1567596604054" duration="726000" />
       <workItem from="1569668202960" duration="50000" />
       <workItem from="1569675435205" duration="386000" />
-      <workItem from="1569843087180" duration="2528000" />
+      <workItem from="1569843087180" duration="2926000" />
+      <workItem from="1569913979182" duration="7980000" />
+      <workItem from="1569938147066" duration="1662000" />
+      <workItem from="1570014322573" duration="151000" />
+      <workItem from="1570014491389" duration="66000" />
+      <workItem from="1570014644970" duration="28000" />
+      <workItem from="1570014688009" duration="1234000" />
+      <workItem from="1570016775990" duration="693000" />
+      <workItem from="1571145920067" duration="8124000" />
     </task>
     <task id="LOCAL-00001" summary="add new class">
       <created>1563971106262</created>
@@ -513,17 +384,33 @@
       <option name="project" value="LOCAL" />
       <updated>1565188021356</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add new class">
+      <created>1569845802491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569845802491</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21529000" />
+    <option name="totallyTimeSpent" value="41865000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29637527" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -533,15 +420,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2548807" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2548807" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35140997" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.21800433" />
@@ -563,6 +450,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new class" />
     <option name="LAST_COMMIT_MESSAGE" value="add new class" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loop/For_break.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loop/For_break.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Array/Person.java">
@@ -625,20 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/time/userlocaltime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/time/localtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/IdCardGenerator/IdCard_substring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -694,20 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class/override&amp;overload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isInterface/Expandable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/override&amp;overload.java" />
     <entry file="file://$PROJECT_DIR$/src/isInterface/test_interface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -722,13 +600,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kinglian/Phone.java">
+    <entry file="file://$PROJECT_DIR$/src/kinglian/GiftShop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="475">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/override_overload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -739,6 +621,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/isInterface/Expandable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/kinglian/Item.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -746,44 +635,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kinglian/GiftShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/phone.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu2.java">
+    <entry file="file://$PROJECT_DIR$/src/kinglian/Phone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="14" />
+        <state relative-caret-position="375">
+          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
           <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class/override_overload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kinglian/Storefront.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Class/gouzaohanshu2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loop/recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/time/userlocaltime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loop/While_break.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Loop/For_break.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/time/localtime.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/isAlive_join.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/multiple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/Synchronized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/PCFixed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/SuspendResume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="72" column="32" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="72" selection-end-column="32" />
           <folding>
-            <element signature="e#112#118#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/Deadlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="54" column="83" selection-start-line="54" selection-start-column="83" selection-end-line="54" selection-end-column="83" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
           </folding>
         </state>
       </provider>

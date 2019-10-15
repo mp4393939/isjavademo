@@ -22,12 +22,12 @@ public class localtime {
         System.out.println("String类型的时间转成LocalDateTime：" + ldt);
     }
 
-    String gettime_0(String isTime) {
+    void localtime(String isTime) {
+        String Time = isTime;
         DateTimeFormatter df = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
         LocalDateTime time = LocalDateTime.now();
         String localTime = df.format(time);
-        return localTime;
-
+        System.out.println(Time);
     }
 
     void gettime_1() {
