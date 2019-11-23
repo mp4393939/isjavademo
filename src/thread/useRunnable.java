@@ -1,4 +1,4 @@
-package thread;
+package Thread;
 
 class newthread implements Runnable {
     Thread t;

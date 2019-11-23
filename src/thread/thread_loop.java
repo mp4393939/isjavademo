@@ -1,4 +1,4 @@
-package thread;
+package Thread;
 
 class thread1 implements Runnable {
     @Override

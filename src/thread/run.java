@@ -1,4 +1,4 @@
-package thread;
+package Thread;
 
 class newthread2 extends Thread {
     newthread2() {

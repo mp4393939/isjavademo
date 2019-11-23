@@ -1,4 +1,4 @@
-package time;
+package Time;
 
 public class userlocaltime extends localtime {
 

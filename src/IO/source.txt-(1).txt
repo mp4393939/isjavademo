@@ -1,0 +1,9 @@
+https://www.cnblogs.com/xieyupeng/p/6864218.html
+
+上社口岗大街1号上社市场大楼中通快递站
+
+命运不会老是袒护你，也不会总是疏忽你。它在为你关上一道门的时候，也会为你打开一扇窗。学会放下，你才会焕然大悟，才可能月朗风清。
+service(ServletRequest req, ServletResponse res)方法问题：对XXXServlet进行了10次访问，init()，destory()，service()，doGet()，doPost() 一共执行力多少次？request对象创建几个？response创建几个？init()1次，destory()0次，service()10次，doGet()10次，doPost()10次 
+
+猪肉涨价真的全是因为猪瘟？其实还有更深层次的原因！
+https://r3---sn-n4v7knlk.googlevideo.com/videoplayback?expire=1573659246&ei=Dc7LXZG_Oa-CsfIPv8-xyAo&ip=65.49.38.140&id=o-ABVMMTO1BimhRQzftley8wDC0Tsf15C_LnKoZXxiSE7R&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-n4v7knlk%2Csn-a5mlrnek&ms=au%2Conr&mv=m&mvi=2&pl=20&initcwndbps=333750&mime=video%2Fmp4&gir=yes&clen=138862280&dur=686.899&lmt=1567319627386537&mt=1573637562&fvip=3&keepalive=yes&fexp=2

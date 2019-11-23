@@ -1,0 +1,20 @@
+https://www.cnblogs.com/xieyupeng/p/6864218.html
+
+上社口岗大街1号上社市场大楼中通快递站
+
+命运不会老是袒护你，也不会总是疏忽你。它在为你关上一道门的时候，也会为你打开一扇窗。学会放下，你才会焕然大悟，才可能月朗风清。
+service(ServletRequest req, ServletResponse res)方法问题：对XXXServlet进行了10次访问，init()，destory()，service()，doGet()，doPost() 一共执行力多少次？request对象创建几个？response创建几个？init()1次，destory()0次，service()10次，doGet()10次，doPost()10次 
+
+猪肉涨价真的全是因为猪瘟？其实还有更深层次的原因！
+https://r3---sn-n4v7knlk.googlevideo.com/videoplayback?expire=1573659246&ei=Dc7LXZG_Oa-CsfIPv8-xyAo&ip=65.49.38.140&id=o-ABVMMTO1BimhRQzftley8wDC0Tsf15C_LnKoZXxiSE7R&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-n4v7knlk%2Csn-a5mlrnek&ms=au%2Conr&mv=m&mvi=2&pl=20&initcwndbps=333750&mime=video%2Fmp4&gir=yes&clen=138862280&dur=686.899&lmt=1567319627386537&mt=1573637562&fvip=3&keepalive=yes&fexp=23842630&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgZSJdTdq907N85pVRBlG_6jmNHtj2unEv6oANWBwnPL4CIQDTNclTaYOWHYBTLXABOneiTJ-W9d9AUa48GhGb-P3iMQ%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIgTUFse2M1SdSep4edBVPEZLo5eWcM2nRzgBW4qOoMGzkCIQDR_nUZRSztDIT7RhNIv5XMbnM4C2KRqYgkmA_nRJ8tZA%3D%3D
+
+"07763F6A-D9E6-4551-8C69-916ED717C7EA"	"郑洁璇"	"女"	"汉"	"25/4/1994 00:00:00"	"广东省饶平县黄冈镇大澳溪头西一横6号"	"445122199404254746"	"饶平县公安局"	"6/12/2010 00:00:00"	"6/12/2020 00:00:00"		"/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAC8gIykjHS8pJik1Mi84R3ZMR0FBR5BnbVV2q5azsKiWpaK81P/lvMj/y6Kl6//u////////tuL/////////////2wBDATI1NUc+R4pMTIr/wqXC////////////////////////////////////////////////////////////////////wAARCAAqACIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDVJCgknAHJJrFu9TlkcrA2xB37mr2qyGOzIH8ZC/5/KsuC0eZdxO1e2e9ADodSuYyMvvUdmH9a2oJlnhWROh/SslLALkyHJ7YqfSG2tNCT0OQP0P8ASgDTooooAzdbciKJOxJP5f8A66WFEMSEdAOOaravKsk4RTnYME+9PsZS0GDxt4zSY0Wdofk9qhsOdTmI6bf8KfIxjRmznAziotIlHmuGHzOetCG0a1FFFMk5pAXDeuKs6e4AaM9c5qtB1b6VJBxejFIu3uplm9mEcZQfeaoIMxqCDhs5FNuubvn2p/aky6a1uXxqJwMxjP1oqhRRcr2cT//Z"	"1160"			"990068"	"28/12/2016 13:49:55.867"
+
+BASE64
+data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAC8gIykjHS8pJik1Mi84R3ZMR0FBR5BnbVV2q5azsKiWpaK81P/lvMj/y6Kl6//u////////tuL/////////////2wBDATI1NUc+R4pMTIr/wqXC////////////////////////////////////////////////////////////////////wAARCAAqACIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDVJCgknAHJJrFu9TlkcrA2xB37mr2qyGOzIH8ZC/5/KsuC0eZdxO1e2e9ADodSuYyMvvUdmH9a2oJlnhWROh/SslLALkyHJ7YqfSG2tNCT0OQP0P8ASgDTooooAzdbciKJOxJP5f8A66WFEMSEdAOOaravKsk4RTnYME+9PsZS0GDxt4zSY0Wdofk9qhsOdTmI6bf8KfIxjRmznAziotIlHmuGHzOetCG0a1FFFMk5pAXDeuKs6e4AaM9c5qtB1b6VJBxejFIu3uplm9mEcZQfeaoIMxqCDhs5FNuubvn2p/aky6a1uXxqJwMxjP1oqhRRcr2cT//Z
+
+
+
+无法写入本地文件。
+
+正在取消文件复制操作。

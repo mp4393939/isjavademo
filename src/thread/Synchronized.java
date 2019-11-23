@@ -1,4 +1,4 @@
-package thread;
+package Thread;
 
 class Callme {
     void call(String msg) {

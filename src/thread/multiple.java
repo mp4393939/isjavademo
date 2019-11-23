@@ -1,4 +1,4 @@
-package thread;
+package Thread;
 
 class newthread3 implements Runnable {
     String name;

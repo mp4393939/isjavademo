@@ -1,4 +1,4 @@
-package thread;
+package Thread;
 
 //Suspending and resuming a thread the modern way.
 class NewThread implements Runnable {

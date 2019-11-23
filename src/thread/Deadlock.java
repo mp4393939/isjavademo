@@ -1,4 +1,4 @@
-package thread;
+package Thread;
 //An example of deadlock.
 class A{
     //将类B的实例作为foo的形参

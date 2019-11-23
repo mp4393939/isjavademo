@@ -1,4 +1,4 @@
-package thread;
+package Thread;
 
 import java.lang.Thread;
 

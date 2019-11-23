@@ -1,4 +1,4 @@
-package stringbuff;
+package Stringbuff;
 
 public class capacity {
     public static void main(String[] args) {

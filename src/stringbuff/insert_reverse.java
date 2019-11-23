@@ -1,4 +1,4 @@
-package stringbuff;
+package Stringbuff;
 
 public class insert_reverse {
     public static void main(String[] args) {

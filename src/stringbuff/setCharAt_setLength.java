@@ -1,4 +1,4 @@
-package stringbuff;
+package Stringbuff;
 
 public class setCharAt_setLength {
     public static void main(String[] args) {
