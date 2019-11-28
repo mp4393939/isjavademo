@@ -6,7 +6,7 @@ package Design;
  */
 public class Enum1 {
     public enum Singleton {
-        instance;
+        INSTANCE;
 
         public void whateverMethod() {
         }

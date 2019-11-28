@@ -8,20 +8,20 @@ package Design;
 缺点： 效率低，第一次加载需要实例化，反应稍慢。每次调用getInstance方法都会进行同步，消耗不必要的资源。
  */
 public class Singleton2 {
-    private static Singleton2 instance;
+    private static Singleton2 INSTANCE;
 
     private Singleton2() {
     }
 
-    public static synchronized Singleton2 getInstance() {
-        if (instance == null) {
-            instance = new Singleton2();
+    public static synchronized Singleton2 getINSTANCE() {
+        if (INSTANCE == null) {
+            INSTANCE = new Singleton2();
         }
-        return instance;
+        return INSTANCE;
     }
 
     public static void main(String[] args) {
-        //getInstance();
-        System.out.println(getInstance());
+        //getINSTANCE();
+        System.out.println(getINSTANCE());
     }
 }

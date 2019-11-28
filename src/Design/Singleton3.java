@@ -8,18 +8,18 @@ package Design;
 
  */
 public class Singleton3 {
-    private static Singleton3 instance = new Singleton3();
+    private static Singleton3 INSTANCE = new Singleton3();
 
     private Singleton3() {
     }
 
-    public static Singleton3 getInstance() {
+    public static Singleton3 getINSTANCE() {
 
-        return instance;
+        return INSTANCE;
     }
 
     public static void main(String[] args) {
-        //getInstance();
-        System.out.println(getInstance());
+        //getINSTANCE();
+        System.out.println(getINSTANCE());
     }
 }

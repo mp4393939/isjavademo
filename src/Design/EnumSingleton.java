@@ -5,8 +5,8 @@ public class EnumSingleton {
     private EnumSingleton() {
     }
 
-    public static EnumSingleton getInstance() {
-        return Singleton.INSTANCE.getInstance();
+    private static EnumSingleton getINSTANCE() {
+        return Singleton.INSTANCE.getINSTANCE();
     }
 
     private static enum Singleton {
@@ -19,15 +19,15 @@ public class EnumSingleton {
             singleton = new EnumSingleton();
         }
 
-        public EnumSingleton getInstance() {
+        public EnumSingleton getINSTANCE() {
             return singleton;
         }
     }
 
     public static void main(String[] args) {
-        EnumSingleton obj1 = EnumSingleton.getInstance();
-        EnumSingleton obj2 = EnumSingleton.getInstance();
-        EnumSingleton obj3 = EnumSingleton.getInstance();
+        EnumSingleton obj1 = EnumSingleton.getINSTANCE();
+        EnumSingleton obj2 = EnumSingleton.getINSTANCE();
+        EnumSingleton obj3 = EnumSingleton.getINSTANCE();
         //true
         System.out.println("obj1==obj2:" + (obj1 == obj2) + "\n" + "obj1==obj3:" + (obj1 == obj3) + "\n" + "obj2==obj3:" + (obj2 == obj3));
     }
