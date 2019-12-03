@@ -1,19 +1,24 @@
 package Design;
 
 /*
-单例模式：这种枚举方式是Effective Java作者Josh Bloch 提倡的方式，它不仅能避免多线程同步问题，而且还能防止反序列化重新创建新的对象，可谓是很坚强的壁垒啊，不过，
-个人认为由于1.5中才加入enum特性，用这种方式写不免让人感觉生疏。
+单例模式：枚举
+上面提到的四种实现单例的方式都有共同的缺点：
+1、需要额外的工作来实现序列化，否则每次反序列化一个序列化的对象时都会创建一个新的实例。
+2、可以使用反射强行调用私有构造器（如果要避免这种情况，可以修改构造器，让它在创建第二个实例的时候抛异常）。
+而枚举类很好的解决了这两个问题，使用枚举除了线程安全和防止反射调用构造器之外，还提供了自动序列化机制，防止反序列化的时候创建新的对象。因此，《Effective Java》作者推荐使用的
+方法。不过，在实际工作中，很少看见有人这么写。
  */
-public class Enum1 {
-    public enum Singleton {
-        INSTANCE;
+public enum Enum1 {
+    //枚举元素本身就是单例
+    INSTANCE;
 
-        public void whateverMethod() {
-        }
+    //添加自己需要的操作
+    public void singletonOperation() {
+        System.out.println("Enum");
     }
 
     public static void main(String[] args) {
-        Enum1 en = new Enum1();
-        System.out.println(en.toString());
+        INSTANCE.singletonOperation();
+        System.out.println(INSTANCE);
     }
 }
