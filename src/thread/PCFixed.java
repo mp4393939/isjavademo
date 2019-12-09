@@ -1,4 +1,4 @@
-package Thread;
+package thread;
 
 //A correct implementation of a producer and consumer.
 class Q {

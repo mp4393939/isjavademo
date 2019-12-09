@@ -1,10 +1,10 @@
-package Thread;
+package thread;
 
 class newthread implements Runnable {
     Thread t;
 
     newthread() {
-        t = new Thread(this, "Demo Thread");//创建一个新的线程
+        t = new Thread(this, "Demo thread");//创建一个新的线程
         System.out.println("child thread:" + t);
         t.start();//start the thread
     }

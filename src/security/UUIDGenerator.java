@@ -1,4 +1,4 @@
-package Security;
+package security;
 
 import java.util.UUID;
 
@@ -7,7 +7,7 @@ public class UUIDGenerator {
     /**
      * ?
      * ? ? ?* 获得一个UUID?
-     * ? ? ?* @return String UUID?
+     * ? ? ?* @return string UUID?
      * ? ? ?
      */
     public static String getUUID() {
@@ -22,7 +22,7 @@ public class UUIDGenerator {
      * ?
      * ? ? ?* 获得指定数目的UUID?
      * ? ? ?* @param number int 需要获得的UUID数量?
-     * ? ? ?* @return String[] UUID数组?
+     * ? ? ?* @return string[] UUID数组?
      * ? ? ?
      */
     public static String[] getUUID(int number) {

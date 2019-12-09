@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/Array/Array2.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/Array/Array3.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/Array/Array4.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/Array/Emp.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/Array/Person.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/Array/Persontest1.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/Array/Teacher.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/Array/Worker.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/Array/array1.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/Array/method1.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/IdCardGenerator/Exam1.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/IdCardGenerator/IdCard.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/IdCardGenerator/IdCard_substring.java" charset="GBK" />
@@ -19,10 +9,18 @@
     <file url="file://$PROJECT_DIR$/src/IdCardGenerator/Simpleinheritance.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/IdCardGenerator/indexOf_Str.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/IdCardGenerator/test.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/MessageDigest/MD5.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/MessageDigest/MD5_0.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/String/RandomString.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/String/RemoveRepeated.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/String/compareTo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Array2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Array3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Array4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Emp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Persontest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Teacher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Worker.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/array1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/method1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/RandomString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/RemoveRepeated.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/compareTo.java" charset="GBK" />
   </component>
 </project>

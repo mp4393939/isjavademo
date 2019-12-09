@@ -1,9 +1,6 @@
-package Time;
+package time;
 
-import java.time.Clock;
-import java.time.Instant;
 import java.time.LocalDateTime;
-import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
 //从默认时区的系统时钟获取当前的日期时间，并转成指定的格式.

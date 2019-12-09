@@ -1,4 +1,4 @@
-package Thread;
+package thread;
 
 class newthread3 implements Runnable {
     String name;
@@ -32,7 +32,7 @@ public class multiple {
         try {
             /*for(int i=5;i>0;i--){
                 System.out.println("main thread:"+i);
-                Thread.sleep(5000);
+                thread.sleep(5000);
             }*/
             Thread.sleep(3000);
         } catch (InterruptedException e) {

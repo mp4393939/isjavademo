@@ -1,4 +1,4 @@
-package Security;
+package security;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
@@ -111,8 +111,8 @@ public class RandomGUID extends Object {
 ? ? * (Useful for SQL Server UniqueIdentifiers, etc.)
 ? ? * Example: C2FEEEAC-CFCD-11D1-8B05-00600806D9B6
 ? ? */
-     /* public String toString() {
- String raw = valueAfterMD5.toUpperCase();
+     /* public string toString() {
+ string raw = valueAfterMD5.toUpperCase();
 StringBuffer sb = new StringBuffer(64);
  sb.append(raw.substring(0, 6));
  sb.append("-");
@@ -133,7 +133,7 @@ sb.append(raw.substring(16, 20));
     public static void main(String[] args) {
         for (int i = 0; i < 100; i++) {
             RandomGUID myGUID = new RandomGUID();
-            System.out.println("Seeding String=" + myGUID.valueBeforeMD5);
+            System.out.println("Seeding string=" + myGUID.valueBeforeMD5);
             System.out.println("rawGUID=" + myGUID.valueAfterMD5);
             System.out.println("RandomGUID=" + myGUID.toString());
         }
