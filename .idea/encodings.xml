@@ -12,15 +12,15 @@
     <file url="file://$PROJECT_DIR$/src/array/Array2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Array3.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Array4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/ArrayCopy.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Emp.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Person.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Persontest1.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Teacher.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Worker.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/array/array1.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/method1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/loop/StringSort.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/string/RandomString.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/string/RemoveRepeated.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/string/compareTo.java" charset="GBK" />
   </component>
 </project>

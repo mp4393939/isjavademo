@@ -25,11 +25,9 @@ public class ExceptZero {
             e.printStackTrace();
             System.out.println("此处出现异常：算术异常");
         } finally {
-            System.out.println("finally代码块：" + i * i);
+            System.out.println("自定义异常");
         }
         return 0;
 
     }
-
-
 }

@@ -13,11 +13,11 @@ public class StringChangInt {
         try {
             //用parseInt()方法将String类型转化为int类型
             int a = Integer.parseInt(temp);
-            System.out.println("将String类型转化为int类型：" + a);
+            System.out.println("将String类型转化为int类型后的值：" + a);
         } catch (NumberFormatException e) {
             e.printStackTrace();
         } finally {
-            System.out.println("初始类型：" + str);
+            System.out.println("初始值：" + str);
         }
     }
 
@@ -26,11 +26,11 @@ public class StringChangInt {
         try {
             //用valueOf()方法将String类型转化为int类型
             int a = Integer.valueOf(str).intValue();
-            System.out.println("将String类型转化为int类型：" + a);
+            System.out.println("将String类型转化为int类型后的值：" + a);
         } catch (NumberFormatException e) {
             e.printStackTrace();
         } finally {
-            System.out.println("初始类型：" + str);
+            System.out.println("初始值：" + str);
         }
     }
 

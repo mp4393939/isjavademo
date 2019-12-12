@@ -1,24 +1,27 @@
 package thread;
+
 //An example of deadlock.
-class A{
+class A {
     //将类B的实例作为foo的形参
-    synchronized void foo(B b){
-        String name=Thread.currentThread().getName();
-        System.out.println(name+"entered A.foo");
-        try{
+    synchronized void foo(B b) {
+        String name = Thread.currentThread().getName();
+        System.out.println(name + "entered A.foo");
+        try {
             Thread.sleep(1000);
-        }catch(Exception e){
+        } catch (Exception e) {
             System.out.println("A Interrupted");
         }
-        System.out.println(name+"trying to call B.last()");
+        System.out.println(name + "trying to call B.last()");
         b.last();
 
     }
-    synchronized void last(){
+
+    synchronized void last() {
         System.out.println("Inside A.last");
     }
 }
-class B{
+
+class B {
     synchronized void bar(A a) {
         String name = Thread.currentThread().getName();
         System.out.println(name + "entered B.bar");
@@ -30,29 +33,34 @@ class B{
         System.out.println(name + "trying to call A.last()");
         a.last();
     }
-    synchronized void last(){
+
+    synchronized void last() {
         System.out.println("Inside A.last");
     }
-    }
+}
+
 public class Deadlock implements Runnable {
-    A a=new A();
-    B b=new B();
-    Deadlock(){
+    A a = new A();
+    B b = new B();
+
+    Deadlock() {
         Thread.currentThread().setName("MainThread");
-        Thread t=new Thread(this,"RacingThread");
+        Thread t = new Thread(this, "RacingThread");
         t.start();
         // get lock on a in this thread.
         a.foo(b);
         System.out.println("Back in main thread");
     }
+
     @Override
     public void run() {
         // get lock on b in other thread.
-        b.bar(a);System.out.println("Back in other thread");
+        b.bar(a);
+        System.out.println("Back in other thread");
     }
 
     public static void main(String[] args) {
-        System.out.println("Programing will forever running  bacause of Deadlock"+"\n");
+        System.out.println("Programing will forever running  bacause of Deadlock" + "\n");
         new Deadlock();
 
     }

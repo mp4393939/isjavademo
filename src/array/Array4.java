@@ -12,6 +12,7 @@ public class Array4 {
     }
 
     public String talk() {
+
         return this.name + ",年龄" + this.age + "岁,手机号码是" + this.phone + ",住在" + this.address;
     }
 
