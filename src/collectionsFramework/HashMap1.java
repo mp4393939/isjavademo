@@ -21,7 +21,7 @@ HashMap实现了Map接口并扩展了AbstractMap类，但没有添加任何自己的方法。
 
 import java.util.*;
 
-class HashMapDemo {
+public class HashMap1 {
     public static void main(String[] args) {
         //Create a hash map.显式类型参数字符串，string、Double可以替换为<>
         HashMap<String, Double> hm = new HashMap<>();
@@ -31,17 +31,34 @@ class HashMapDemo {
         hm.put("Jane Baker", 1378.00);
         hm.put("Tod Hal1", 99.22);
         hm.put("Ralph Smith", -19.08);
-//Get a set of the entries.
+        //Get a set of the entries.
         Set<Map.Entry<String, Double>> set = hm.entrySet();
-//Display the set.
+        //Display the set.
         for (Map.Entry<String, Double> me : set) {
             System.out.println(me.getKey() + ":" + me.getValue());
         }
+        System.out.println("修改前的HashMap长度：" + hm.size());
         System.out.println("-----------------------------------------------------");
+        //new
+        hm.put("Jack", 1200.00);
+        hm.put("Kyle", 1800.00);
+        hm.put("Lee", 12.50);
+        System.out.println("新增Jack：" + +hm.get("Jack"));
+        System.out.println("新增Kyle：" + hm.get("Kyle"));
+        System.out.println("新增Lee：" + hm.get("Lee"));
         //Deposit 1000 into John Doe's account.
         double balance = hm.get("John Doe");
         hm.put("John Doe", balance + 1000);
-        System.out.println("John Doe's new balance:" +
-                hm.get("John Doe"));
+        System.out.println("修改后的John Doe：" + hm.get("John Doe"));
+        //replace:替换
+        hm.replace("Tod Hal1", 999.99);
+        System.out.println("修改后的Tod Hal1：" + hm.get("Tod Hal1"));
+        //remove:去除，排除
+        hm.remove("Tom Smith", 123.22);
+        System.out.println("修改后的HashMap长度：" + hm.size());
+        System.out.println("-----------------------------------------------------");
+        for (Map.Entry<String, Double> me : set) {
+            System.out.println(me.getKey() + ":" + me.getValue());
+        }
     }
 }
