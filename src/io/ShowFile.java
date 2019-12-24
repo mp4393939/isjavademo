@@ -8,12 +8,12 @@ public class ShowFile {
     public static void main(String[] args) {
         int i;
         FileInputStream fin;
-//First, confirm that a filename has been specified.
+        //First, confirm that a filename has been specified.
         if (args.length != 1) {
             System.out.println("Usage: ShowFile filename");
             return;
         }
-//Attempt to open the file.
+        //Attempt to open the file.
         try {
             fin = new FileInputStream(args[0]);
         } catch (FileNotFoundException e) {
@@ -29,7 +29,7 @@ public class ShowFile {
         } catch (IOException e) {
             System.out.println("Error Reading File");
         } finally {
-//close file on the way out of the try block.
+            //close file on the way out of the try block.
             try {
                 fin.close();
             } catch (IOException e) {
