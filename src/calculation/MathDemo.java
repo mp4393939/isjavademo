@@ -1,7 +1,7 @@
-package math;
+package calculation;
 
 public class MathDemo {
-    public static void main(String args[]){
+    public static void main(String args[]) {
         /**
          *Math.sqrt()//计算平方根
          *Math.cbrt()//计算立方根
@@ -12,9 +12,9 @@ public class MathDemo {
         System.out.println("------------------------------------------------------------------------------");
         System.out.println(Math.sqrt(16));   //4.0
         System.out.println(Math.cbrt(8));    //2.0
-        System.out.println(Math.pow(3,2));     //9.0
-        System.out.println(Math.max(2.3,4.5));//4.5
-        System.out.println(Math.min(2.3,4.5));//2.3
+        System.out.println(Math.pow(3, 2));     //9.0
+        System.out.println(Math.max(2.3, 4.5));//4.5
+        System.out.println(Math.min(2.3, 4.5));//2.3
         System.out.println("1-----------------------------------------------------------------------------");
 
         /**
@@ -49,8 +49,8 @@ public class MathDemo {
          * random 取得一个大于或者等于0.0小于不等于1.0的随机数
          */
         System.out.println(Math.random());  //小于1大于0的double类型的数
-        System.out.println(Math.random()*2);//大于0小于1的double类型的数
-        System.out.println(Math.random()*2+1);//大于1小于2的double类型的数
+        System.out.println(Math.random() * 2);//大于0小于1的double类型的数
+        System.out.println(Math.random() * 2 + 1);//大于1小于2的double类型的数
         System.out.println("5-----------------------------------------------------------------------------");
 
         /**

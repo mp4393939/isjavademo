@@ -12,7 +12,7 @@ public class ThreadTest {
         }
         //c2是实现类Callme的一个实例，类Callme有两条打印
         c2.target.call("890");
-        c2.t.setName("test");
+        c2.t.setName("HashtableDemo1");
         System.out.println(c2.msg);
         System.out.println(c2.msg.length());
     }

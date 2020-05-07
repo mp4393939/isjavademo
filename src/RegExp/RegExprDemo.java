@@ -4,7 +4,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class RegExprDemo {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         RegExpr r = new RegExpr();
         r.RegExp();
         System.out.println("------------------------------------------------------------------------------");
@@ -45,21 +45,29 @@ class RegExpr {
         pat = Pattern.compile("Java");
         mat = pat.matcher("Java");
 
-        found = mat.matches(); // check for a match
-
+        found = mat.matches();
+        // check for a match
         System.out.println("Testing Java against Java.");
-        if (found) System.out.println("Matches");
-        else System.out.println("No Match");
+        if (found) {
+            System.out.println("Matches");
+        } else {
+            System.out.println("No Match");
+        }
 
         System.out.println();
 
         System.out.println("Testing Java against Java 8.");
-        mat = pat.matcher("Java 8"); // create a new matcher
+        mat = pat.matcher("Java 8");
+        // create a new matcher
 
-        found = mat.matches(); // check for a match
+        found = mat.matches();
+        // check for a match
 
-        if (found) System.out.println("Matches");
-        else System.out.println("No Match");
+        if (found) {
+            System.out.println("Matches");
+        } else {
+            System.out.println("No Match");
+        }
     }
 }
 
@@ -70,18 +78,21 @@ class RegExpr2 {
 
         System.out.println("Looking for Java in Java 8.");
 
-        if (mat.find()) System.out.println("subsequence found");
-        else System.out.println("No Match");
+        if (mat.find()) {
+            System.out.println("subsequence found");
+        } else {
+            System.out.println("No Match");
+        }
     }
 }
 
 class RegExpr3 {
     void RegExp() {
         Pattern pat = Pattern.compile("test");
-        Matcher mat = pat.matcher("test 1 2 3 test");
+        Matcher mat = pat.matcher("HashtableDemo1 1 2 3 HashtableDemo1");
 
         while (mat.find()) {
-            System.out.println("test found at index " +
+            System.out.println("HashtableDemo1 found at index " +
                     mat.start());
         }
     }
@@ -92,8 +103,9 @@ class RegExpr4 {
         Pattern pat = Pattern.compile("W+");
         Matcher mat = pat.matcher("W WW WWW");
 
-        while (mat.find())
+        while (mat.find()) {
             System.out.println("Match: " + mat.group());
+        }
     }
 }
 
@@ -103,8 +115,9 @@ class RegExpr5 {
         Pattern pat = Pattern.compile("e.+d");
         Matcher mat = pat.matcher("extend cup end table");
 
-        while (mat.find())
+        while (mat.find()) {
             System.out.println("Match: " + mat.group());
+        }
     }
 }
 
@@ -115,8 +128,9 @@ class RegExpr6 {
         Pattern pat = Pattern.compile("e.+?d");
         Matcher mat = pat.matcher("extend cup end table");
 
-        while (mat.find())
+        while (mat.find()) {
             System.out.println("Match: " + mat.group());
+        }
     }
 }
 
@@ -125,10 +139,11 @@ class RegExpr7 {
     void RegExp() {
         // Match lowercase words.
         Pattern pat = Pattern.compile("[a-z]+");
-        Matcher mat = pat.matcher("this is a test.");
+        Matcher mat = pat.matcher("this is a HashtableDemo1.");
 
-        while (mat.find())
+        while (mat.find()) {
             System.out.println("Match: " + mat.group());
+        }
     }
 }
 
@@ -157,8 +172,9 @@ class RegExpr9 {
 
         String strs[] = pat.split("one two,alpha9 12!done.");
 
-        for (int i = 0; i < strs.length; i++)
-            System.out.println("Next token: " + strs[i]);
+        for (String str : strs) {
+            System.out.println("Next token: " + str);
+        }
 
     }
 }

@@ -1,8 +1,9 @@
 package string;
+
 //substring()在一个字符串中使用一个子串替换另一个子串的实例
 public class substring {
     public static void main(String[] args) {
-        String str = "This is a test.This is,too.";
+        String str = "This is a HashtableDemo1.This is,too.";
         String search = "is";
         String sub = "was";
         String result;

@@ -3,7 +3,7 @@ package algorithm;
 import java.util.ArrayList;
 import java.util.List;
 
-//1、2、3、4能组成多少无重复数字的三位数
+//有1、2、3、4四个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？
 public class ThreeDigitsWithoutRepetition1 {
     public static void main(String[] args) {
         List<Integer> results = new ArrayList<>();
@@ -13,8 +13,9 @@ public class ThreeDigitsWithoutRepetition1 {
                     continue;
                 }
                 for (int k = 1; k <= 4; k++) {
-                    if (i == k || j == k)
+                    if (i == k || j == k) {
                         continue;
+                    }
                     int num = 100 * i + 10 * j + k;
                     results.add(num);
                 }

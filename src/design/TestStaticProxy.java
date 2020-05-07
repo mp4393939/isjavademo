@@ -6,6 +6,7 @@ public class TestStaticProxy {
         proxyInterface.marry();
     }
 }
+
 //婚庆公司类：婚庆公司相当于代理角色
 class WeddingCompany implements ProxyInterface {
 
@@ -27,10 +28,12 @@ class WeddingCompany implements ProxyInterface {
         System.out.println("结婚完毕，我们需要做后续处理，你们可以回家了，其余的事情我们公司来做");
     }
 }
+
 //结婚家庭类
-class NormalHome implements ProxyInterface{
+class NormalHome implements ProxyInterface {
 
     @Override
     public void marry() {
         System.out.println("我们结婚啦～");
-    }}
+    }
+}

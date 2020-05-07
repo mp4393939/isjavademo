@@ -1,4 +1,4 @@
-package math;
+package calculation;
 
 /*
 Java的自增运算符（++）和自减运算符（--）继承自C++，可以使变量的值加1或减1，但其写在变量前和变量后有不同的效果：

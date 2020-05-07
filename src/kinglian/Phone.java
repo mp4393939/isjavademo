@@ -14,9 +14,9 @@ public class Phone {
             // new path
             FileOutputStream f = new FileOutputStream(new File("E:\\phone.txt"));
             f.close();
-            fout = new FileOutputStream("E:\\phone.txt", true);
+            fout = new FileOutputStream("E:\\JavaProject\\phone.txt", true);
             p = new PrintStream(fout);
-            for (long i = 13500000000l; i <= 13500000100l; i++) {
+            for (long i = 13500000000L; i <= 13500000100L; i++) {
                 p.println(i);
             }
         } catch (FileNotFoundException e) {

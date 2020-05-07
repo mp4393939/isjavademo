@@ -1,4 +1,5 @@
-package math;
+package calculation;
+
 /*
 类型名称|字节空间|使用场景
 byte|1字节（8位）|存储字节数据（较常用）

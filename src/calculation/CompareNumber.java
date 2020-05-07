@@ -1,4 +1,4 @@
-package math;
+package calculation;
 
 public class CompareNumber {
     public static void main(String[] args) {

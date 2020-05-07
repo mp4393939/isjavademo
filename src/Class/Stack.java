@@ -1,9 +1,10 @@
 package Class;
+
 /***
-This class defines an integer stack that can hold 10 values
-push 推动(人或物);移动(身体部位);推进(道路);挤开;推动;此处引申为入栈
-pop (使)发砰砰声;(使)爆裂，发爆裂声;(突然或匆匆)去;此处引申为出栈
-stack 堆栈
+ This class defines an integer stack that can hold 10 values
+ push 推动(人或物);移动(身体部位);推进(道路);挤开;推动;此处引申为入栈
+ pop (使)发砰砰声;(使)爆裂，发爆裂声;(突然或匆匆)去;此处引申为出栈
+ stack 堆栈
  ***/
 class Stack {
     private int[] stck = new int[10];

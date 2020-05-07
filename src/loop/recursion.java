@@ -12,6 +12,7 @@ public class recursion {
         int sum = 0;
         System.out.println(sum(100));
     }
+
     //ตÝน้
     public static int sum(int n) {
         if (n == 1)

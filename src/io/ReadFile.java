@@ -6,7 +6,7 @@ import java.io.IOException;
 public class ReadFile {
     public static void main(String[] args) {
         //读取文件
-        File file = new File("test.yml");
+        File file = new File("HashtableDemo1.yml");
         System.out.println("文件是否存在：" + file.isFile());
         //如果文件不存在，创建新文件
         if (!file.exists()) {

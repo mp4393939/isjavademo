@@ -3,7 +3,7 @@ package loop;
 //×Ö·û´®µÄÃ°ÅÝÅÅÐò
 public class StringSort {
     //static String arr[] = {"Now", "I'm", "full", "tonight"};
-    static String arr[] = {"zzz", "BB", "bb", "Bb","Null","bDD","String"};
+    static String arr[] = {"zzz", "BB", "bb", "Bb", "Null", "bDD", "String"};
 
     public static void main(String[] args) {
         for (int j = 0; j < arr.length; j++) {

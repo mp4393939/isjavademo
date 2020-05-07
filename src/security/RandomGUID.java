@@ -128,7 +128,7 @@ sb.append(raw.substring(16, 20));
 }*/
 
 
-// Demonstraton and self test of class
+// Demonstraton and self HashtableDemo1 of class
 
     public static void main(String[] args) {
         for (int i = 0; i < 100; i++) {

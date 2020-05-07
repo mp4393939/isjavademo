@@ -13,16 +13,18 @@ public class readline1 {
         System.out.println("enter line of text");
         System.out.println("enter 'stop' to quit");
         for (int i = 0; i < 100; i++) {
-        //超过5抛出java.lang.ArrayIndexOutOfBoundsException异常
+            //超过5抛出java.lang.ArrayIndexOutOfBoundsException异常
             str[i] = br.readLine();
-            if (str[i].equals("stop"))
+            if (str[i].equals("stop")) {
                 break;
+            }
         }
         System.out.println("\nHere is your input:");
         //display the lines
         for (int i = 0; i < 100; i++) {
-            if (str[i].equals("stop"))
+            if (str[i].equals("stop")) {
                 break;
+            }
             System.out.println(str[i]);
         }
 

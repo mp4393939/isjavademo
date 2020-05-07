@@ -7,8 +7,8 @@ public class HolidaySked {
 
     public HolidaySked() {
         sked = new BitSet(365);
-        int[] holiday = { 1, 15, 50, 148, 185, 246,
-                281, 316, 326, 359 };
+        int[] holiday = {1, 15, 50, 148, 185, 246,
+                281, 316, 326, 359};
         for (int i = 0; i < holiday.length; i++) {
             addHoliday(holiday[i]);
         }

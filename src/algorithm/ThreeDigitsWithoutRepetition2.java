@@ -1,6 +1,6 @@
 package algorithm;
 
-//1、2、3、4能组成多少无重复数字的三位数
+//有1、2、3、4四个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？
 public class ThreeDigitsWithoutRepetition2 {
     public static void main(String[] args) {
         String number[] = {"1", "2", "3", "4"};
@@ -14,8 +14,9 @@ public class ThreeDigitsWithoutRepetition2 {
             }
             for (int j = 1; j < number.length; j++) {
                 for (int k = 1; k < number.length; k++) {
-                    if (j != k)
+                    if (j != k) {
                         System.out.println(number[0] + number[j] + number[k]);
+                    }
                 }
             }
         }

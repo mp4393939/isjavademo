@@ -14,6 +14,7 @@ class thread1 implements Runnable {
         t.start();
     }
 
+    @Override
     public void run() {
         try {
             for (int i = 6; i > 0; i--) {
@@ -39,7 +40,7 @@ public class thread_loop {
             System.out.println("main thread interrupted");
         }
         System.out.println("main thread exiting");
-        thread1 t= new thread1();
+        thread1 t = new thread1();
         System.out.println(t.toString());
     }
 }

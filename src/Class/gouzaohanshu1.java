@@ -1,4 +1,5 @@
 package Class;
+
 class box1 {
     Double width;
     Double height;

@@ -4,6 +4,7 @@ package Interface;
 public class test_interface implements Expandable {
     @Override
     public void expand() {
+
         System.out.println("test_interface");
     }
 

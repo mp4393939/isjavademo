@@ -11,14 +11,17 @@ public class buffered1 {
         System.out.println("input 'stop' to quit");
         for (int i = 0; i < str.length; i++) {
             str[i] = buff.readLine();
-            if (str.equals("stop"))
+            if (str.equals("stop")) {
                 break;
+            }
         }
         System.out.println("this is your input:");
         for (int i = 0; i < str.length; i++) {
-            if (str[i].equals("stop"))
+            if (str[i].equals("stop")) {
                 break;
+            }
             System.out.println(str[i]);
         }
+
     }
 }

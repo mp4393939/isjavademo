@@ -1,6 +1,7 @@
 package collectionsFramework;
 
 import java.util.HashMap;
+
 /*
 Hashap实现了接口Map，并提供了键映射数据结构的完整实现。散列映射让您能够基于某种类型的键值来存储数据，并具有由负载系数定义的效率。负载系数是一个
 0.0-1.0的浮点数，它决定了散列映射如何以及何时为更多的元素分配空间。

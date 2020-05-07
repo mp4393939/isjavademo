@@ -1,4 +1,4 @@
-package math;
+package calculation;
 
 public class CompareCharacter {
     public static void main(String[] args) {

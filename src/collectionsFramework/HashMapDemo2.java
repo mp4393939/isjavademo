@@ -21,7 +21,7 @@ HashMap实现了Map接口并扩展了AbstractMap类，但没有添加任何自己的方法。
 
 import java.util.*;
 
-public class HashMapDemo {
+public class HashMapDemo2 {
     public static void main(String[] args) {
         //Create a hash map.显式类型参数字符串，string、Double可以替换为<>
         HashMap<String, Double> hm = new HashMap<>();
