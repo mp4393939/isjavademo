@@ -2,107 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="add new class and modified class">
-      <change afterPath="$PROJECT_DIR$/IdCardSubstring.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IdCardSubstring_birthday.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IdCardSubstring_information.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/UseExtends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class/java new一个对象的过程中发生了什么" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ContraryNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/NarcissisticNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/SnowFlake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ThreeDigitsWithoutRepetition3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculation/OpBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsFramework/HashMapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsFramework/HashtableDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsFramework/KeyValueReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsFramework/ListArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsFramework/getKey1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionsFramework/getKey2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/IdCardSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/Test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/ArabicnumChangeChinesenum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/IntChangString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/MyFileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/ReplacetxtWriteConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/ReplacetxtWriteDisk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/StringReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/StringSeparate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/StringgetNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/Beer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/GetTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/Watch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdCardSubstring2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdCardSubstring2_birthday.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdCardSubstring2_information.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/IdCardSubstring2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdCardSubstring.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IdCardSubstring.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdCardSubstring_birthday.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IdCardSubstring_birthday.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdCardSubstring_information.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IdCardSubstring_information.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/isjavademo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/isjavademo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/META-INF/isjavademo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/META-INF/isjavademo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/String/squals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/String/squals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/box1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/box4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/Comic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/Comic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/ComicBooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/ComicBooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Design/NormalHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Design/NormalHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Design/WeddingCompany.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Design/WeddingCompany.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Loop/recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Loop/recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/String/RemoveRepeated.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/String/RemoveRepeated.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/isjavademo/String/substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/String/substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/io/readline1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/io/readline1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/kinglian/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/security/MD5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/security/MD5_0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/io/ReadByte.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/io/ReadByte.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/isjavademo/security/SHA1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/security/SHA1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/security/Sum_PersonId.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/security/Sum_PersonId.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/security/Translate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/security/Translate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/thread/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/ThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/thread/buffered1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/buffered1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/thread/thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/thread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/thread/thread_loop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/thread_loop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/Prameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/Prameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/gouzaohanshu1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/gouzaohanshu1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/gouzaohanshu2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class/gouzaohanshu2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Interface1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/test_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/test_interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RegExp/RegExprDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegExp/RegExprDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ThreeDigitsWithoutRepetition1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ThreeDigitsWithoutRepetition1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ThreeDigitsWithoutRepetition2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ThreeDigitsWithoutRepetition2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsFramework/ComicBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsFramework/ComicBooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsFramework/ConcurrentHashMapVsHashtable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsFramework/ConcurrentHashMapVsHashtable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsFramework/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsFramework/HashMapDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsFramework/HolidaySked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsFramework/HolidaySked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionsFramework/IdCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/IdCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/TestStaticProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/TestStaticProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception/MemLeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/MemLeak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/BufferedWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/BufferedWriterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/ReadByte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/ReadByte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/ReadFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/TextCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/TextCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/readline1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/readline1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/readLineTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kinglian/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kinglian/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/For_break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/For_break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/StringSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/StringSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/CompareCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculation/CompareCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/CompareNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculation/CompareNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/IncreaseDecrease.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculation/IncreaseDecrease.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/MathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculation/MathDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculation/Range.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/TypeChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculation/TypeChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/security/MD5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/security/MD5_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/security/MD5_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/security/MD5_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/security/RandomGUID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/security/RandomGUID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/security/SHA1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/security/SHA1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/security/Sum_PersonId.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/security/Sum_PersonId.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/IntChangString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/IntChangString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/RemoveRepeated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/RemoveRepeated.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/StringInversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/StringInversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/UseTrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/UseTrim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/delete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/insert_reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/insert_reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/squals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/squals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/DeadLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/DeadLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/buffered1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/buffered1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/thread_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/thread_loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/time/DateTimeDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/time/DateTimeDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/IdCardSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/IdCardSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +65,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -165,7 +88,7 @@
       <recent name="C:\Users\Administrator\IdeaProjects\isjavademo\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IdCardSubstring">
+  <component name="RunManager" selected="Application.IdCardSubstring2">
     <configuration name="IdCardSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.IdCardSubstring" />
       <module name="isjavademo" />
@@ -179,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IdCard_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.IdCard_substring" />
+    <configuration name="IdCardSubstring2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.IdCardSubstring2" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
@@ -192,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyValueReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionsFramework.KeyValueReverse" />
+    <configuration name="ListArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionsFramework.ListArrayList" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
@@ -233,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IdCardSubstring2" />
         <item itemvalue="Application.IdCardSubstring" />
+        <item itemvalue="Application.ListArrayList" />
         <item itemvalue="Application.getKey2" />
         <item itemvalue="Application.getKey1" />
-        <item itemvalue="Application.KeyValueReverse" />
-        <item itemvalue="Application.IdCard_substring" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +264,8 @@
       <workItem from="1585723422524" duration="361000" />
       <workItem from="1587286401312" duration="223000" />
       <workItem from="1588764352876" duration="2175000" />
-      <workItem from="1588822146258" duration="2367000" />
+      <workItem from="1588822146258" duration="6558000" />
+      <workItem from="1589025126468" duration="1534000" />
     </task>
     <task id="LOCAL-00001" summary="add new class">
       <created>1563971106262</created>
@@ -448,7 +372,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577180893412</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add new class and modified class">
+      <created>1588825421979</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1588825421979</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add new class and modified class">
+      <created>1588825457500</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1588825457500</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -488,38 +426,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="404" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1583676861033" />
-    <state x="538" y="112" key="CommitChangelistDialog2" timestamp="1588825433935">
+    <state x="538" y="112" key="CommitChangelistDialog2" timestamp="1588825461914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="538" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588825433935" />
+    <state x="538" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588825461914" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584704758918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584704758918" />
-    <state width="1877" height="189" key="GridCell.Tab.0.bottom" timestamp="1588825343977">
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom" timestamp="1589026836483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588825343977" />
-    <state width="1877" height="189" key="GridCell.Tab.0.center" timestamp="1588825343967">
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589026836483" />
+    <state width="1877" height="327" key="GridCell.Tab.0.center" timestamp="1589026836473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588825343967" />
-    <state width="1877" height="189" key="GridCell.Tab.0.left" timestamp="1588825343967">
+    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589026836473" />
+    <state width="1877" height="327" key="GridCell.Tab.0.left" timestamp="1589026836473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588825343967" />
-    <state width="1877" height="189" key="GridCell.Tab.0.right" timestamp="1588825343977">
+    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589026836473" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right" timestamp="1589026836483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="189" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588825343977" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585136658366">
+    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589026836483" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1589026393126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585136658366" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1588825447097">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589026393126" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1588825474689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588825447097" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588825474689" />
     <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1585135696187">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

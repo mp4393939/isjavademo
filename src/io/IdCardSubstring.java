@@ -6926,8 +6926,9 @@ public class IdCardSubstring {
         int changeInt = Integer.parseInt(str.toString().substring(str.length() - 2, str.length() - 1));
         if (changeInt % 2 == 0) {
             return "Å®";
-        } else
+        } else {
             return "ÄÐ";
+        }
     }
 }
 
