@@ -2,30 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="add new class and modified class">
-      <change afterPath="$PROJECT_DIR$/IdCardSubstring2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IdCardSubstring2_birthday.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IdCardSubstring2_information.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/IdCardSubstring2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pets/JCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/SnatchTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadTickts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IdCardSubstring.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IdCardSubstring.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdCardSubstring2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdCardSubstring2_birthday.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdCardSubstring2_information.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/IdCardSubstring_birthday.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IdCardSubstring_birthday.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IdCardSubstring_information.txt" beforeDir="false" afterPath="$PROJECT_DIR$/IdCardSubstring_information.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isjavademo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/isjavademo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/box1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/box4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/box4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Class/gouzaohanshu2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/Comic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/Comic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/ComicBooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/ComicBooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Design/NormalHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Design/NormalHome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Design/WeddingCompany.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Design/WeddingCompany.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/Loop/recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/Loop/recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/String/RemoveRepeated.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/String/RemoveRepeated.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/String/substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/String/substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/io/ReadByte.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/io/ReadByte.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/security/SHA1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/security/SHA1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/newthread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/thread/useRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/thread/useRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsFramework/ListArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsFramework/ListArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/io/IdCardSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/IdCardSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/IdCardSubstring2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread/useRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread/useRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/面试考点导图.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crm32" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -88,13 +81,13 @@
       <recent name="C:\Users\Administrator\IdeaProjects\isjavademo\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IdCardSubstring2">
-    <configuration name="IdCardSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.IdCardSubstring" />
+  <component name="RunManager" selected="Application.TestJCanvas">
+    <configuration name="SnatchTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.SnatchTickets" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IdCardSubstring2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.IdCardSubstring2" />
+    <configuration name="TestJCanvas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pets.TestJCanvas" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.*" />
+          <option name="PATTERN" value="pets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionsFramework.ListArrayList" />
+    <configuration name="ThreadTickts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadTickts" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionsFramework.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getKey1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionsFramework.getKey1" />
+    <configuration name="snatchTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.snatchTickets" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionsFramework.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getKey2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionsFramework.getKey2" />
+    <configuration name="useRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.useRunnable" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionsFramework.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IdCardSubstring2" />
-        <item itemvalue="Application.IdCardSubstring" />
-        <item itemvalue="Application.ListArrayList" />
-        <item itemvalue="Application.getKey2" />
-        <item itemvalue="Application.getKey1" />
+        <item itemvalue="Application.TestJCanvas" />
+        <item itemvalue="Application.ThreadTickts" />
+        <item itemvalue="Application.useRunnable" />
+        <item itemvalue="Application.SnatchTickets" />
+        <item itemvalue="Application.snatchTickets" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +258,14 @@
       <workItem from="1587286401312" duration="223000" />
       <workItem from="1588764352876" duration="2175000" />
       <workItem from="1588822146258" duration="6558000" />
-      <workItem from="1589025126468" duration="1534000" />
+      <workItem from="1589025126468" duration="1943000" />
+      <workItem from="1589027718364" duration="3259000" />
+      <workItem from="1589089108013" duration="1259000" />
+      <workItem from="1589603502666" duration="1121000" />
+      <workItem from="1590231306874" duration="36000" />
+      <workItem from="1590898510233" duration="6223000" />
+      <workItem from="1591277014609" duration="379000" />
+      <workItem from="1592714707333" duration="512000" />
     </task>
     <task id="LOCAL-00001" summary="add new class">
       <created>1563971106262</created>
@@ -386,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588825457500</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add new class and modified class">
+      <created>1589027095699</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1589027095699</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -418,50 +425,70 @@
     <option name="LAST_COMMIT_MESSAGE" value="add new class and modified class" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="300" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1583676858759">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1590900204027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="300" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583676858759" />
-    <state x="739" y="404" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583676861033">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590900204027" />
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1589603896305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="404" width="441" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1583676861033" />
-    <state x="538" y="112" key="CommitChangelistDialog2" timestamp="1588825461914">
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589603896305" />
+    <state x="538" y="110" width="843" height="930" key="CommitChangelistDialog2" timestamp="1592715238054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="538" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588825461914" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584704758918">
+    <state x="538" y="110" width="843" height="930" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592715238054" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590231335201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584704758918" />
-    <state width="1877" height="327" key="GridCell.Tab.0.bottom" timestamp="1589026836483">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590231335201" />
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom" timestamp="1591277394892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589026836483" />
-    <state width="1877" height="327" key="GridCell.Tab.0.center" timestamp="1589026836473">
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591277394892" />
+    <state width="1877" height="327" key="GridCell.Tab.0.center" timestamp="1591277394892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589026836473" />
-    <state width="1877" height="327" key="GridCell.Tab.0.left" timestamp="1589026836473">
+    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591277394892" />
+    <state width="1877" height="327" key="GridCell.Tab.0.left" timestamp="1591277394892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589026836473" />
-    <state width="1877" height="327" key="GridCell.Tab.0.right" timestamp="1589026836483">
+    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591277394892" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right" timestamp="1591277394892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589026836483" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591277394892" />
+    <state width="1877" height="273" key="GridCell.Tab.1.bottom" timestamp="1589604626163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589604626162" />
+    <state width="1877" height="273" key="GridCell.Tab.1.center" timestamp="1589604626162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589604626162" />
+    <state width="1877" height="273" key="GridCell.Tab.1.left" timestamp="1589604626162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589604626162" />
+    <state width="1877" height="273" key="GridCell.Tab.1.right" timestamp="1589604626162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="273" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589604626162" />
+    <state x="699" y="230" key="RollbackChangesDialog" timestamp="1592715060161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592715060161" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1589026393126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589026393126" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1588825474689">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1589027194249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588825474689" />
-    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1585135696187">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589027194249" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1590904548884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585135696187" />
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590904548884" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585136552403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

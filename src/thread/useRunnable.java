@@ -4,12 +4,15 @@ class newthread implements Runnable {
     Thread t;
 
     newthread() {
-        t = new Thread(this, "Demo thread");//创建一个新的线程
+        //创建一个新的线程
+        t = new Thread(this, "Demo thread");
         System.out.println("child thread:" + t);
-        t.start();//start the thread
+        //start the thread
+        t.start();
     }
 
     //this is the entry point for the second thread
+    @Override
     public void run() {
         try {
             for (int i = 5; i > 0; i--) {
