@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/Class/ExtendsSignificance.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/algorithm/JudgePalindromeNumber.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Array2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Array3.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/Array4.java" charset="GBK" />
@@ -19,8 +20,17 @@
     <file url="file://$PROJECT_DIR$/src/io/ReadFile0_5_2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/io/indexOf_Str.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/io/test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/loop/NumberFromKeyboard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/loop/NumberSort.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/loop/StringSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/security/Encryption.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/security/LotteryNumberGeneratorProgram.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/security/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/security/UUIDGenerator.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/string/RandomString.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/string/RemoveRepeated.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/time/GetTime.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/time/SimpleDateFormatDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/time/Watch.java" charset="GBK" />
   </component>
 </project>
