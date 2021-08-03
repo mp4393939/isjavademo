@@ -1,5 +1,5 @@
 package time;
-
+//1000 ºÁÃë = 1Ãë 1,000,000 Î¢Ãë = 1Ãë 1,000,000,000 ÄÉÃë = 1Ãë
 public class RunningTimeTest {
     public static void main(String[] args) {
         StringTest(10000);
@@ -8,29 +8,38 @@ public class RunningTimeTest {
     }
     public static void StringTest(int number){
         String str="";
-        long startTime = System.currentTimeMillis();    //è·å–å¼€å§‹æ—¶é—´
+        long startTime = System.currentTimeMillis();    //»ñÈ¡¿ªÊ¼Ê±¼ä
+        long startTime2=System.nanoTime();
         for(int i=1;i<=number;i++){
             str=str+i;
         }
-        long endTime = System.currentTimeMillis();    //è·å–ç»“æŸæ—¶é—´
-        System.out.println(endTime-startTime+"ms");
+        long endTime = System.currentTimeMillis();    //»ñÈ¡½áÊøÊ±¼ä
+        long endTime2=System.nanoTime();
+        System.out.println("String£º"+(endTime-startTime)+"ms");
+        System.out.println("String£º"+(endTime2-startTime2)+"ns");
     }
     public static void StringbuildTest(int number){
         StringBuilder build=new StringBuilder("");
-        long startTime = System.currentTimeMillis();    //è·å–å¼€å§‹æ—¶é—´
+        long startTime = System.currentTimeMillis();    //»ñÈ¡¿ªÊ¼Ê±¼ä
+        long startTime2=System.nanoTime();
         for(int i=1;i<=number;i++){
             build.append(i);
         }
-        long endTime = System.currentTimeMillis();    //è·å–ç»“æŸæ—¶é—´
-        System.out.println(endTime-startTime+"ms");
+        long endTime = System.currentTimeMillis();    //»ñÈ¡½áÊøÊ±¼ä
+        long endTime2=System.nanoTime();
+        System.out.println("StringBuilder£º"+(endTime-startTime)+"ms");
+        System.out.println("String£º"+(endTime2-startTime2)+"ns");
     }
     public static void StringBuffTest(int number){
         StringBuffer buff=new StringBuffer("");
-        long startTime = System.currentTimeMillis();    //è·å–å¼€å§‹æ—¶é—´
+        long startTime = System.currentTimeMillis();    //»ñÈ¡¿ªÊ¼Ê±¼ä
+        long startTime2=System.nanoTime();
         for(int i=1;i<=number;i++){
             buff.append(i);
         }
-        long endTime = System.currentTimeMillis();    //è·å–ç»“æŸæ—¶é—´
-        System.out.println(endTime-startTime+"ms");
+        long endTime = System.currentTimeMillis();    //»ñÈ¡½áÊøÊ±¼ä
+        long endTime2=System.nanoTime();
+        System.out.println("StringBuffer£º"+(endTime-startTime)+"ms");
+        System.out.println("String£º"+(endTime2-startTime2)+"ns");
     }
 }

@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="add new class and modified class">
-      <change afterPath="$PROJECT_DIR$/src/loop/NumberFromKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/security/LotteryNumberGeneratorProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/RunningTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/EqualJudge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/META-INF/isjavademo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/security/RandomGUID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/security/RandomGUID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word.txt" beforeDir="false" afterPath="$PROJECT_DIR$/word.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/security/LotteryNumberGeneratorProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/security/LotteryNumberGeneratorProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/time/RunningTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/time/RunningTimeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +45,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -72,13 +68,26 @@
       <recent name="C:\Users\Administrator\IdeaProjects\isjavademo\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RunningTimeTest">
+  <component name="RunManager" selected="Application.LotteryNumberGeneratorProgram">
     <configuration name="Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="security.Encryption" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualJudge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.EqualJudge" />
+      <module name="isjavademo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,46 +134,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="security.Test" />
-      <module name="isjavademo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="security.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.SHA1" />
       <item itemvalue="Application.Encryption" />
       <item itemvalue="Application.LotteryNumberGeneratorProgram" />
       <item itemvalue="Application.RunningTimeTest" />
+      <item itemvalue="Application.EqualJudge" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunningTimeTest" />
         <item itemvalue="Application.LotteryNumberGeneratorProgram" />
+        <item itemvalue="Application.RunningTimeTest" />
+        <item itemvalue="Application.EqualJudge" />
         <item itemvalue="Application.Encryption" />
         <item itemvalue="Application.SHA1" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +262,10 @@
       <workItem from="1591277014609" duration="379000" />
       <workItem from="1592714707333" duration="512000" />
       <workItem from="1627721725137" duration="8604000" />
-      <workItem from="1627731146379" duration="8099000" />
+      <workItem from="1627731146379" duration="9394000" />
+      <workItem from="1627740694731" duration="3138000" />
+      <workItem from="1627744810988" duration="3011000" />
+      <workItem from="1627975166605" duration="2152000" />
     </task>
     <task id="LOCAL-00001" summary="add new class">
       <created>1563971106262</created>
@@ -407,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589027095699</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add new class and modified class">
+      <created>1627739382424</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1627739382424</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -458,6 +451,10 @@
         <watch expression="a" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
