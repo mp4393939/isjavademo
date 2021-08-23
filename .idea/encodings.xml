@@ -14,7 +14,13 @@
     <file url="file://$PROJECT_DIR$/src/array/Worker.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/array/method1.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/io/Exam1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/FileWriterDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/IdCard.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/io/IdCardOutputConsole.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/IdCardOutputDisk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/IdCardSubstring.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/PhoneOutputDisk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/ReadFile.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/io/ReadFile0_5.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/io/ReadFile0_5_2.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/io/indexOf_Str.java" charset="GBK" />
@@ -27,6 +33,8 @@
     <file url="file://$PROJECT_DIR$/src/security/UUIDGenerator.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/string/RandomString.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/string/RemoveRepeated.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/ReplacetxtWriteDisk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/StringgetNum.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/time/GetTime.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/time/RunningTimeTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/time/SimpleDateFormatDemo.java" charset="GBK" />

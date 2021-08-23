@@ -16,11 +16,10 @@ public class PhoneOutputDisk {
         FileOutputStream file;
         PrintStream ps = null;
         try {
-            FileOutputStream fos = new FileOutputStream(new File("E:\\jmeter\\phonenumber.txt"));
+            FileOutputStream fos = new FileOutputStream(new File("phonenumber.txt"));
             //将文本内容清空
             fos.close();
-            file = new FileOutputStream("E:\\jmeter\\phonenumber.txt", true);
-            ps = new PrintStream(file);
+            file = new FileOutputStream("phonenumber.txt", true);
             ps = new PrintStream(file);
             for (long i = 13600000000L; i <= 13600000099L; i++) {
                 ps.println(i);
