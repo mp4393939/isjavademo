@@ -97,9 +97,10 @@ public class LotteryNumberGeneratorProgram {
         //遍历int数组，并将int数组中的元素转换成字符串储存到字符缓冲区中去
         for (int i = 0; i < arr.length; i++) {
             if (i != arr.length - 1)
-                sb.append(arr[i] + ",");
+                //String.format()方法，作用就是格式化输出参数. “%02d”是指定输出格式，%作先导标记，0表示自动补0, 2的意思是最小长度为2（如果用4，则1输出0001），d表示整数
+                sb.append(String.format("%02d",arr[i]) + ",");
             else
-                sb.append(arr[i] + "");
+                sb.append(String.format("%02d",arr[i]) + "");
         }
         //System.out.println(sb);
         FileOutputStream file;
@@ -109,7 +110,6 @@ public class LotteryNumberGeneratorProgram {
             //将文本内容清空
             //fos.close();
             file = new FileOutputStream("LotteryNumber.txt", true);
-            ps = new PrintStream(file);
             ps = new PrintStream(file);
             ps.println(sb);
             ps.flush();
