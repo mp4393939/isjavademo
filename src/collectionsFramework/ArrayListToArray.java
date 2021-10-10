@@ -31,7 +31,9 @@ class ArrayListToArray {
         ia = al.toArray(ia);
         int sum = 0;
 //Sum the array.
-        for (int i : ia) sum += i;
+        for (int i : ia)
+            sum += i;
         System.out.println("Sum is:" + sum);
+        System.out.println("Contents of ia:" + ia.length);
     }
 }

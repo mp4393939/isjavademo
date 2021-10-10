@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="add new class and modified class">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/DmJdbcDriver18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileOutputStream.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/DmJdbcDriver18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDK8/NewCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ConvertWordsIntoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionsFramework/RemoveListElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/OutputDiskLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/OutputDiskMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/ConnectionDameng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/ConnectionMysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/ConvertEnglishlettersIntoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/UseSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/Multithreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LotteryNumber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LotteryNumber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isjavademo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/isjavademo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/ArrayListToArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/CollectionsFramework/ArrayListToArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/isjavademo/security/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/security/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/security/LotteryNumberGeneratorProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/security/LotteryNumberGeneratorProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsFramework/ArrayListToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsFramework/ArrayListToArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionsFramework/ListArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionsFramework/ListArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,25 +71,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.1.47.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="io" />
-      <recent name="string" />
-      <recent name="Interface" />
-      <recent name="collectionsFramework" />
-      <recent name="Class" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\IdeaProjects\isjavademo\lib" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Design" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhenghh\IdeaProjects\isjavademo\lib" />
+      <recent name="C:\Users\Administrator\IdeaProjects\isjavademo\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\IdeaProjects\isjavademo\target" />
@@ -76,14 +92,25 @@
       <recent name="C:\Users\Administrator\IdeaProjects\isjavademo\src\JavaIO" />
       <recent name="C:\Users\Administrator\IdeaProjects\isjavademo\lib" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="algorithm" />
+      <recent name="io" />
+      <recent name="string" />
+      <recent name="Interface" />
+      <recent name="collectionsFramework" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io" />
+      <recent name="string" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.LotteryNumberGeneratorProgram">
-    <configuration name="Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="security.Encryption" />
+  <component name="RunManager" selected="Application.ConnectionDameng">
+    <configuration name="ConnectionDameng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.ConnectionDameng" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="security.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotteryNumberGeneratorProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="security.LotteryNumberGeneratorProgram" />
+    <configuration name="ConnectionMysql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.ConnectionMysql" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="security.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneOutputDisk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.PhoneOutputDisk" />
+    <configuration name="OutputDiskLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.OutputDiskLoop" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.ReadFile" />
+    <configuration name="OutputDiskMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.OutputDiskMethod" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
@@ -130,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="security.Test" />
+    <configuration name="UseSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.UseSplit" />
       <module name="isjavademo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="security.*" />
+          <option name="PATTERN" value="algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,19 +184,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LotteryNumberGeneratorProgram" />
-      <item itemvalue="Application.ReadFile" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.PhoneOutputDisk" />
-      <item itemvalue="Application.Encryption" />
+      <item itemvalue="Application.UseSplit" />
+      <item itemvalue="Application.ConnectionMysql" />
+      <item itemvalue="Application.OutputDiskLoop" />
+      <item itemvalue="Application.ConnectionDameng" />
+      <item itemvalue="Application.OutputDiskMethod" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LotteryNumberGeneratorProgram" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Encryption" />
-        <item itemvalue="Application.PhoneOutputDisk" />
-        <item itemvalue="Application.ReadFile" />
+        <item itemvalue="Application.ConnectionDameng" />
+        <item itemvalue="Application.ConnectionMysql" />
+        <item itemvalue="Application.OutputDiskMethod" />
+        <item itemvalue="Application.OutputDiskLoop" />
+        <item itemvalue="Application.UseSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +324,19 @@
       <workItem from="1629547573493" duration="2844000" />
       <workItem from="1629726143965" duration="1771000" />
       <workItem from="1629727940235" duration="10213000" />
-      <workItem from="1629981059204" duration="1306000" />
+      <workItem from="1629981059204" duration="1390000" />
+      <workItem from="1630848652813" duration="2595000" />
+      <workItem from="1631102531442" duration="12829000" />
+      <workItem from="1631194573351" duration="918000" />
+      <workItem from="1631197568639" duration="2670000" />
+      <workItem from="1631452217757" duration="62000" />
+      <workItem from="1631502485258" duration="1010000" />
+      <workItem from="1631632895151" duration="875000" />
+      <workItem from="1631718063378" duration="1219000" />
+      <workItem from="1631721310241" duration="2000" />
+      <workItem from="1633839816379" duration="279000" />
+      <workItem from="1633841518590" duration="8188000" />
+      <workItem from="1633850051988" duration="503000" />
     </task>
     <task id="LOCAL-00001" summary="add new class">
       <created>1563971106262</created>
@@ -446,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629726846526</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add new class and modified class">
+      <created>1629982443956</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1629982443956</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -480,17 +526,17 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/loop/For_break.java</url>
           <line>6</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/loop/For_break.java</url>
           <line>8</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
-        <breakpoint enabled="true" type="java-exception">
+        <breakpoint type="java-exception">
           <properties class="java.io.FileNotFoundException" package="java.io" />
           <option name="timeStamp" value="14" />
         </breakpoint>

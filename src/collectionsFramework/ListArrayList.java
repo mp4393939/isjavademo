@@ -16,6 +16,6 @@ public class ListArrayList {
         for (int i : ouShu) {
             System.out.println(i);
         }
-
+        System.out.println(list);
     }
 }
