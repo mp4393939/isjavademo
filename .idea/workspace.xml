@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="add new class and modified class">
-      <change afterPath="$PROJECT_DIR$/FileOutputStream.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/isReflect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/OutputDiskLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/OutputDiskLoop.java" afterDir="false" />
-    </list>
+    <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +59,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -333,6 +327,7 @@
       <workItem from="1647345190982" duration="950000" />
       <workItem from="1647430176072" duration="1325000" />
       <workItem from="1647432342495" duration="543000" />
+      <workItem from="1652247557451" duration="867000" />
     </task>
     <task id="LOCAL-00001" summary="add new class">
       <created>1563971106262</created>
@@ -495,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633850568487</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add new class and modified class">
+      <created>1652247757033</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1652247757033</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
