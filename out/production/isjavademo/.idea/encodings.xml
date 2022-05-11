@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/Class/ExtendsSignificance.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/algorithm/ConvertWordsIntoNumbers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/algorithm/ConvertWordsIntoNumbers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/algorithm/JudgePalindromeNumber.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Array2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Array3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Array4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/ArrayCopy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Emp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Persontest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Teacher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/Worker.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/array/method1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/collectionsFramework/ArrayListDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/collectionsFramework/ArrayListToArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/collectionsFramework/CodeKeeper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/collectionsFramework/HashMapDemo2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/collectionsFramework/ListArrayList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/collectionsFramework/getKey1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/collectionsFramework/getKey2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/Exam1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/FileWriterDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/IdCard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/IdCardOutputConsole.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/IdCardOutputDisk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/IdCardSubstring.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/OutputDiskLoop.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/OutputDiskMethod.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/PhoneOutputDisk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/ReadFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/ReadFile0_5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/ReadFile0_5_2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/io/indexOf_Str.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/jdbc/ConnectionDameng.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/jdbc/ConnectionMysql.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/loop/NumberFromKeyboard.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/loop/NumberSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/loop/StringSort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/security/Encryption.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/security/LotteryNumberGeneratorProgram.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/security/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/security/UUIDGenerator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/ConvertEnglishlettersIntoNumbers.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/RandomString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/RemoveRepeated.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/ReplacetxtWriteDisk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/StringgetNum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/UseSplit.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/string/UseTrim.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/thread/Multithreading.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/thread/ThreadTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/time/GetTime.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/time/RunningTimeTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/time/SimpleDateFormatDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/time/Watch.java" charset="GBK" />
+  </component>
+</project>

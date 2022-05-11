@@ -35,15 +35,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\zhenghh\.m2\repository" />
-        <option name="mavenHome" value="D:/soft/apache-maven-3.8.5" />
-        <option name="userSettingsFile" value="D:\soft\apache-maven-3.8.5\conf\settingsforalibaba.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1WNd3qKdkTJOFSpo4MhjqQbgPrI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -156,17 +147,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -331,8 +311,6 @@
       <workItem from="1647223697867" duration="4434000" />
       <workItem from="1647228190869" duration="675000" />
       <workItem from="1647345190982" duration="950000" />
-      <workItem from="1647430176072" duration="1325000" />
-      <workItem from="1647432342495" duration="543000" />
     </task>
     <task id="LOCAL-00001" summary="add new class">
       <created>1563971106262</created>
