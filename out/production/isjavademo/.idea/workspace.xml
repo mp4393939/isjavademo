@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="add new class and modified class">
-      <change afterPath="$PROJECT_DIR$/FileOutputStream.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reflect/isReflect.java" afterDir="false" />
+    <list default="true" id="da214ade-f67c-467a-b92c-f5c58d513cb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/OutputDiskLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/OutputDiskLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/io/OutputDiskLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/io/OutputDiskLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/isjavademo/src/io/OutputDiskLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/isjavademo/src/io/OutputDiskLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,15 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\zhenghh\.m2\repository" />
+        <option name="mavenHome" value="D:/soft/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.8.5\conf\settingsforalibaba.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1WNd3qKdkTJOFSpo4MhjqQbgPrI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,7 +64,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -311,6 +319,10 @@
       <workItem from="1647223697867" duration="4434000" />
       <workItem from="1647228190869" duration="675000" />
       <workItem from="1647345190982" duration="950000" />
+      <workItem from="1647430176072" duration="1325000" />
+      <workItem from="1647432342495" duration="543000" />
+      <workItem from="1652247557451" duration="1468000" />
+      <workItem from="1652249054237" duration="157000" />
     </task>
     <task id="LOCAL-00001" summary="add new class">
       <created>1563971106262</created>
@@ -473,7 +485,28 @@
       <option name="project" value="LOCAL" />
       <updated>1633850568487</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add new class and modified class">
+      <created>1652247757033</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1652247757033</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add new class and modified class">
+      <created>1652248483554</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1652248483554</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add new class and modified class">
+      <created>1652248756583</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1652248756583</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
